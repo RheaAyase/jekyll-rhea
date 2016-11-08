@@ -1,0 +1,75 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Rhea Ayase
+email: rhea@ayase.eu
+description: Former game programmer with passionate opinions about the industry, Discord admin and active contributor to gaming & dev communities. Currently wearing her RedHat, playing with the delicate C# letters in Linux.
+url: http://rhea-ayase.eu
+
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Prague
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: "Radka Janeková"
+  nickname: "Rhea Ayase"
+  avatar: avatar.jpg
+  job: "writes C# code on Linux, in Azure." #".NET Software Engineer<br />Linux Programmer Specialist<br />Azure OnDemand Support"
+  bio: "Former&nbsp;game&nbsp;programmer with passionate&nbsp;opinions&nbsp;about&nbsp;the&nbsp;industry, Discord&nbsp;admin&nbsp;and&nbsp;active&nbsp;contributor to&nbsp;gaming&nbsp;and&nbsp;open&nbsp;source&nbsp;communities. Currently&nbsp;wearing&nbsp;her&nbsp;RedHat, playing&nbsp;with&nbsp;the&nbsp;delicate&nbsp;C#&nbsp;letters&nbsp;in&nbsp;Linux."
+  email: rhea@ayase.eu
+  disqus-shortname: rheaayase
+  discord: http://discord.rhea-ayase.eu
+  twitter: RheaAyase
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: RheaAyase
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: rhea-ayase
+  dribbble: #username
+  youtube: RheaAyase
+  twitch: RheaAyase
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  fedora: Rhea
+  reddit: RheaAyase
+
