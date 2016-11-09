@@ -16,18 +16,18 @@ comments: true
  &nbsp; I was familiar with Linux for a long time, and actively started using it somewhere around 2008. My first desktop distribution was Mandriva 2008, later it was Arch Linux and during university I switched to BackTrack, because I studied security and felt like I might as well play around a little bit out of the standard sandbox... As far as servers go my first server experience was with CentOS, then I went through ClearOS briefly, and ended up using unRAID on my home-server. It was an interesting project to set up all the things. After university I went more casual and after I sold my notebook I was left with only my Windows PC and the unRAID server for a while. 
 <div class='pull-right' markdown="1">
 ![Raspberry Pi]({{ site.url }}/assets/RPi.jpg)
-<br />`Raspberry Pi 3`
+<br />[`Raspberry Pi 3`]({{ site.url }}/assets/RPi.jpg)
 </div>
 
  &nbsp; One day I managed to inspire the desolate white space with the delicate `C#` letters of simplified artificial intelligence, also known as the [Botwinder][botwinder]. A little almost-open-source project, a Community Management bot for Discord. It was running on [Raspberry Pi 3][raspberry] in Raspbian Linux, however during the summer 2016 it became very popular and the poor tiny raspie was not enough anymore. And so we are running it from a strronk VPS now, together with its website. Nope, I'm not a web developer! My fiancé is responsible for that, it is Laravel somethingsomething. **;**p 
 <br /> &nbsp; Oh and I'm running Fedora 24 on my RedHat issue Lenovo notebook. <3
 
- &nbsp; I spend my days working on something, whether it's Botwinder's code, or just helping out someone in some open source community, I enjoy it.
-<br /> &nbsp; Wish I could still claim that I'm a gamer, but sadly I don't have anywhere near as much time as I used to. This is mostly due to my activities around Botwinder and all the communities and projects that I contribute to. We can still find a little bit of time to play a game or two with my boyfriend though!
-<br /> &nbsp; I also go out to exercise once a week - a little bit of `iaido`, somewhere in the meadows, edge of a forest. It's Japanese martial art of drawing the sword. The goal is to be ready at all times, for example Samurai is always ready to draw the sword from any position, sitting or standing.
+ &nbsp; I usually spend my days working on something, whether it's Botwinder's code, or just helping out in some open source or gaming community, I enjoy it.
+<br /> &nbsp; Wish I could still claim that I'm a gamer, but sadly I don't have anywhere near as much time as I used to. This is mostly due to my activities around Botwinder and all the communities and projects that I contribute to - I wasn't this active in the past. We can still find a little bit of time to play a game or two with my boyfriend though!
+<br /> &nbsp; I also go out to exercise once a week - a little bit of `iaido`, somewhere in the meadows, edge of a forest... It's Japanese martial art of drawing the sword. The goal is to be ready at all times, for example Samurai is always ready to draw the sword from any position, sitting or standing.
 
 ![Katana-large]({{ site.url }}/assets/Kirei_02-large.jpg)
 Oh and... this is my **Kirei**. That's what I call my Katana, it means _beautiful_ in Japanese.
 
 [botwinder]:	http://botwinder.info
-[raspberry]:	https://www.dropbox.com/s/b4x64zhcthvu8jm/RPi_1.jpg
+[raspberry]:	{{ site.url }}/assets/RPi.jpg
