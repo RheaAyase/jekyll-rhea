@@ -15,10 +15,10 @@ comments: true
 
  &nbsp; I was familiar with Linux for a long time, and actively started using it somewhere around 2008. My first desktop distribution was Mandriva 2008, later it was Arch Linux and during university I switched to BackTrack, because I studied security and felt like I might as well play around a little bit out of the standard sandbox... As far as servers go my first server experience was with CentOS, then I went through ClearOS briefly, and ended up using unRAID on my home-server. It was an interesting project to set up all the things. After university I went more casual and after I sold my notebook I was left with only my Windows PC and the unRAID server for a while. 
 
+![]({{ site.url }}/img/RPi.jpg)
  &nbsp; One day I managed to inspire the desolate white space with the delicate `C#` letters of simplified artificial intelligence, also known as the [Botwinder][botwinder]. A little almost-open-source project, a Community Management bot for Discord. It was running on [Raspberry Pi 3][raspberry] in Raspbian Linux, however during the summer 2016 it became very popular and the poor tiny raspie was not enough anymore. And so we are running it from a strronk VPS now, together with its website. Nope, I'm not a web developer! My fiancé is responsible for that, it is Laravel somethingsomething. **;**p 
 <br /> &nbsp; Oh and I'm running Fedora 24 on my RedHat issue Lenovo notebook. <3
 
-![Raspberry Pi 3]({{ site.url }}/img/RPi.jpg)
 
 
 [botwinder]:	http://botwinder.info
