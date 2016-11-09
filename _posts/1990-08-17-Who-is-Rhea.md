@@ -3,7 +3,7 @@ layout: post
 title:  "Who is Rhea?"
 date:   1990-08-17 02:07:19
 categories: [life]
-comments: true
+comments: false
 ---
  &nbsp; The name is Radka, but I'm known as Rhea Ayase on the interwebz. I'm that rare unicorn, a female programmer. And a gamer. I'm an active contributor not only to dev communities, but also to the gaming ones. _Grill on the web!_
 
