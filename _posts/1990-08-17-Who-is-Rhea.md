@@ -18,9 +18,9 @@ comments: true
 <div class='pull-right' markdown="1">
 ![Raspberry Pi]({{ site.url }}/img/RPi.jpg)
 </div>
+
  &nbsp; One day I managed to inspire the desolate white space with the delicate `C#` letters of simplified artificial intelligence, also known as the [Botwinder][botwinder]. A little almost-open-source project, a Community Management bot for Discord. It was running on [Raspberry Pi 3][raspberry] in Raspbian Linux, however during the summer 2016 it became very popular and the poor tiny raspie was not enough anymore. And so we are running it from a strronk VPS now, together with its website. Nope, I'm not a web developer! My fiancé is responsible for that, it is Laravel somethingsomething. **;**p 
 <br /> &nbsp; Oh and I'm running Fedora 24 on my RedHat issue Lenovo notebook. <3
-
 
 
 [botwinder]:	http://botwinder.info
