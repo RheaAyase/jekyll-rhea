@@ -42,7 +42,7 @@ comments: false
 {% include image.html
   img="assets/Kirei_02-large.jpg"
   title="Rhea's Katana"
-  caption="Oh and... this is my **Kirei**. That's what I call my Katana, it means _beautiful_ in Japanese."
+  caption="Oh and... this is my <b>Kirei</b>. That's what I call my Katana, it means <i>beautiful</i> in Japanese."
   url="http://rhea-ayase.eu/assets/Kirei_02-large.jpg"
   align="right"
   float="true"
