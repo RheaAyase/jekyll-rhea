@@ -15,7 +15,7 @@ List of mini-chapters:
 * [Day Three]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-3) - It's not over yet...
 * [Day Four]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-4) - Am I in Love?
 * [Day Five]({{ site.url }}/articles/2016-09/An-ordinary-recovery-mission-5) - Wake up!
-* [Day Six]({{ site.url }}/articles/2016-09/An-ordinary-recovery-mission-7) - Gotcha ò\_ó
+* [Day Six]({{ site.url }}/articles/2016-09/An-ordinary-recovery-mission-6) - Gotcha ò\_ó
 * [Just another trade-escort](https://www.youtube.com/watch?v=O3zY_zafRLQ) (video gameplay episode)
 
 &nbsp;
