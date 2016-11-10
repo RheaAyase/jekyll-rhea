@@ -117,6 +117,16 @@ a.read-more {
   }
 }
 
+.image-wrapper {
+  border: 1px red solid;
+
+  .image-caption {
+    text-align: center;
+    color: $secondary;
+    margin-top: 0.2em;
+  }
+}
+
 .post-navigation {
   background-color: #f6f6f6;
   @include box-shadow;

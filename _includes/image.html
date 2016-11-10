@@ -1,0 +1,17 @@
+<!-- _includes/image.html -->
+<div class="image-wrapper" style="{% if include.width %}max-width: {{ include.width }};{% endif %}{% if include.align %}{% if include.align == "center" %} margin: 0 auto;{% else %} float: {{ include.align }};{% endif %}{% endif %}" >
+  {% if include.url %}
+  <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
+  {% endif %}
+    <img {% if include.width %} style="max-width: {{ include.width }};" {% endif %} src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
+  {% if include.url %}
+  </a>
+  {% endif %}
+  {% if include.caption %}
+    <p class="image-caption">{{ include.caption }}</p>
+  {% endif %}
+</div>
+{% if include.float == blank or include.float != "true" %}
+<div class="clear"></div>
+{% endif %}
+
