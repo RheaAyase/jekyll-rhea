@@ -5,6 +5,14 @@ date:   1990-08-17 02:07:19
 categories: [life]
 comments: false
 ---
+{% include image.html
+  img="assets/sunset.jpg"
+  title="Rhea and her fiancé"
+  caption="Rhea & her fiancé"
+  url="http://rhea-ayase.eu/assets/sunset-large.jpg"
+  align="left"
+  float="true"
+%}
  &nbsp; The name is Radka, but I'm known as Rhea Ayase on the interwebz. I'm that rare unicorn, a female programmer. And a gamer. I'm an active contributor not only to dev communities, but also to the gaming ones. _Grill on the web!_
 
  &nbsp; I used to be a streamer with rather decent amount of viewers, but now I stream only casually while still trying to put up a video or two every month and actively maintaining several large gaming communities on Discord.
