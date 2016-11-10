@@ -11,8 +11,10 @@ pre, code {
   font-size: ($font-size-base - 3);
 }
 code {
-  color: #4a8fff;
-  border-radius: 2px;
+  color: $code-color;
+  background-color: $code-bg-color;
+  border-radius: 4px;
+  border: 1px solid rgba(darken($code-bg-color, 30), 0.30);
   white-space: nowrap;
 }
 

@@ -57,12 +57,15 @@ $background-color: #f5f5f5;
 
 $white:            #fff;
 $primary:          #d00d93;
-$secondary:        #8d7edc;
+$secondary:        #7744cc;
 $tertiary:         #dd88ff;
 $success:          #65e892;
 $danger:           #f83e4b;
 $warning:          #F5A623;
 $info:             #09ABF6;
+
+$code-color:       $secondary;
+$code-bg-color:    #ddeeff;
 
 // Tables
 $table-border-color: #d0d0d0 !default;
