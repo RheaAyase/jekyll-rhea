@@ -24,8 +24,8 @@ List of mini-chapters:
   img="assets/Rhea_402p.png"
   title="CMDR Rhea by Laanz"
   caption="Drawing of CMDR Rhea by Laanz"
-  width="400px"
-  align="center"
+  width="714px"
+  align="left"
   float="false"
 %}
 
