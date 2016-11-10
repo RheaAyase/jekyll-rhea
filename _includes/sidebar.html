@@ -5,8 +5,8 @@
   <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar">
   {% endif %}
   <span class="author_block">
-    <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a><br />
-    aka <a href="{{ site.url }}/" class="author_nick">{{ author.nickname }}</a>
+    <a href="{{ author.about-url }}/" class="author_name">{{ author.name }}</a><br />
+    aka <a href="{{ author.about-url }}/" class="author_nick">{{ author.nickname }}</a>
   </span>
   <span class="author_job">{{ author.job }}</span>
   <span class="author_bio mbm">{{ author.bio }}</span>
@@ -17,7 +17,7 @@
       </li>
       <li class="nav-item">
         <span>/</span>
-        <a href="{{ site.url }}/articles/1990-08/Who-is-Rhea">about</a>
+        <a href="{{ author.about-url }}">about</a>
       </li>
       {% for page in site.pages %} {% if page.title %}
       <li class="nav-item">
