@@ -20,7 +20,14 @@ List of mini-chapters:
 
 &nbsp;
 
-![CMDR Rhea by Laanz]({{ site.url }}/assets/Rhea_402p.png)
+{% include image.html
+  img="assets/Rhea_402p.png"
+  title="CMDR Rhea by Laanz"
+  caption="Drawing of CMDR Rhea by Laanz"
+  width="400px"
+  align="center"
+  float="false"
+%}
 
 ### Day One
 
