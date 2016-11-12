@@ -25,6 +25,10 @@
         <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
       </li>
       {% endif %} {% endfor %}
+      <li class="nav-item">
+        <span>/</span>
+        <a href="{{ site.url }}/feed.xml">RSS</a>
+      </li>
     </ul>
   </nav>
   {% include social-links.html %}
