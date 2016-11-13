@@ -7,7 +7,7 @@ pre, code {
   font-family: $font-family-monospace;
   color: #525252;
   font-size: 0.9em;
-  background-color: #f8f8f8;
+  background-color: $codeblock-bg-color;
   font-size: ($font-size-base - 3);
 }
 code {
@@ -29,8 +29,11 @@ pre { // only apply for code blocks
   word-wrap: break-word;
   border-radius: 0;
   font-weight: normal;
+  border-radius: 4px;
+  border: 1px solid rgba(darken($codeblock-bg-color, 30), 0.30);
 }
 pre code {
+  border: none;
   background: transparent;
   white-space: pre;
   overflow: auto;

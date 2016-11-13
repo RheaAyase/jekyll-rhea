@@ -1,5 +1,6 @@
 <!-- _includes/image.html -->
 <div class="image-wrapper" style="{% if include.width %}max-width: {{ include.width }};{% endif %}{% if include.align %}{% if include.align == "center" %} margin: 0 auto;{% else %} float: {{ include.align }};{% endif %}{% endif %}" >
+  {% if include.align and include.align == "center" %}<div style="display: table-cell;">{% endif %}
   {% if include.url %}
   <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
   {% endif %}
@@ -10,6 +11,7 @@
   {% if include.caption %}
     <p class="image-caption">{{ include.caption }}</p>
   {% endif %}
+  {% if include.align and include.align == "center" %}</div>{% endif %}
 </div>
 {% if include.float == blank or include.float != "true" %}
 <div class="clear"></div>
