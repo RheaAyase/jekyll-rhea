@@ -16,9 +16,25 @@ ul.tag-cloud {
 .tag-list {
   .tag-group {
     margin-bottom: 2em;
+
     .tag-group-title {
       color: $tertiary;
       text-transform: capitalize;
+      padding-right: 1em;
+    }
+
+    .tag-group-rss {
+      color: $secondary;
+      font-size: 0.8em;
+      text-decoration: underline;
+      text-transform: none;
+      a {
+        color: $secondary;
+        &:hover,
+        &:focus {
+          color: lighten($text-color, 25%);
+        }
+      }
     }
 
     .tag-item {
