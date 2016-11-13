@@ -51,13 +51,13 @@ section.post {
 }
 
 .post-title-link {
-	color: $primary;
-	font-size: 14px;
-	margin-left: 10px;
-	&:hover,
-	&:focus {
-		color: lighten($primary, 14%);
-	}
+  color: $primary;
+  font-size: 14px;
+  margin-left: 10px;
+  &:hover,
+  &:focus {
+    color: red;
+  }
 }
 
 // Post meta

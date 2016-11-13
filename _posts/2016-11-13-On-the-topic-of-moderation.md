@@ -4,6 +4,11 @@ title:  "On the topic of moderation"
 date:   2016-11-13 10:25:19
 categories: [community]
 comments: true
+excerpt: "Moderation is very important part of community management. Let me begin by explaining these terms, so we understand what do I mean by what.
+<ul><li><b>Community manager</b> is the one who makes the rules, who lights the path and guides the rest of the team. All the responsibility in any community falls onto the CM, whether it is responsibility for the moderation team, administrators, or even the state of the community and how happy the members are.
+</li><li><b>Moderators</b> are the footsoldiers of the community team, the first line of defense against bullies, trolls, spammers and alike. They are also the first point of contact of a member with the authority, and as such are responsible to relay the ideology to members and if necessary, they have to enforce the rules.
+</li><li><b>Admin</b> is often mis-used term in gaming communities, and people labeled <i>admin</i> are often playing the role of the community manager. Admin merely provides the hardware/software for the community, and tools for the team, to make their job easier. I often use <a href=\"https://discord.gg/elite\" target=\"_blank\">Elite Dangerous Discord server</a> as an example, and I'll use it in this case as well. I am an \"admin\" of the <a href=\"https://discord.gg/elite\" target=\"_blank\">ED Discord</a>, however, I am not only providing the tools (setting up permissions, roles and channels, keeping it running, and the <a href=\"http://botwinder.info\" target=\"_blank\">Botwinder</a>, but I also laid down the rules, the moderation ideology, and I handle the worst cases - these are tasks of a CM, not that of an admin.
+</li></ul>"
 ---
 ### Terminology and the team
 
@@ -12,8 +17,6 @@ Moderation is very important part of community management. Let me begin by expla
 * **Community manager** is the one who makes the rules, who lights the path and guides the rest of the team. All the responsibility in any community falls onto the CM, whether it is responsibility for the moderation team, administrators, or even the state of the community and how happy the members are.
 * **Moderators** are the footsoldiers of the community team, the first line of defense against bullies, trolls, spammers and alike. They are also the first point of contact of a member with the authority, and as such are responsible to relay the ideology to members and if necessary, they have to enforce the rules.
 * **Admin** is often mis-used term in gaming communities, and people labeled _admin_ are often playing the role of the community manager. Admin merely provides the hardware/software for the community, and tools for the team, to make their job easier. I often use [Elite Dangerous Discord server](https://discord.gg/elite) as an example, and I'll use it in this case as well. I am an "admin" of the [ED Discord](https://discord.gg/elite), however, I am not only providing the tools (setting up permissions, roles and channels, keeping it running, and the [Botwinder](http://botwinder.info)), but I also laid down the rules, the moderation ideology, and I handle the worst cases - these are tasks of a CM, not that of an admin.
-
-<!--more-->
 
 ### Moderation tools
 
