@@ -5,7 +5,7 @@ date:   2016-11-13 10:25:19
 categories: [community]
 comments: true
 ---
-#### Terminology and the team
+### Terminology and the team
 
 Moderation is very important part of community management. Let me begin by explaining these terms, so we understand what do I mean by what.
 
@@ -15,7 +15,7 @@ Moderation is very important part of community management. Let me begin by expla
 
 <!--more-->
 
-#### Moderation tools
+### Moderation tools
 
  &nbsp; Lets assume that we do have somewhat decent tools to moderate effectively, for example the ability to take notes about members, the ability to keep track of who is who - if the system allows them to change their name, and we also need the ability to ban people temporarily, delete inappropriate messages, and maybe mute people. As I mentioned above, these tools would be provided by the admin, even implemented if the underlying system doesn't have them, just like I had to create [Botwinder](http://botwinder.info) for Discord.
 
@@ -33,7 +33,7 @@ Moderation is very important part of community management. Let me begin by expla
   float="false"
 %}
 
-#### Moderators
+### Moderators
 
  &nbsp; This should be obvious, but I'll mention it. Moderator should be level-headed person who is able to separate their personal feelings and objectively judge a situation. Further they should be able to talk and type clearly and use full sentences.
 
@@ -47,7 +47,7 @@ Moderation is very important part of community management. Let me begin by expla
 
  &nbsp; An Ideal moderator would always try to talk to the user, explain the issue, explain what's wrong, why is it wrong, and give the user alternative to whatever are they doing wrong. Try to grow the community, don't just remove people without explaining what are they doing wrong. Maybe they do want to learn, grow, be a better person? It is also worth noting that the attitude of the moderator should be somewhat neutral, it should be neither hostile, nor too friendly, but don't be boring neutral either - they may consider you condescending, which is not entirely good either.
 
-#### Taking an action
+### Taking an action
 
  &nbsp; The right approach to dealing with naughty people would be to try and talk to them first (as described above) and only if that doesn't help and the user keeps repeating the same mistakes, they keep causing the same problems, then we should kick them out or ban them temporarily. However, even while kicking or banning people, we should let them know why. This can be improved by using the right tools again, another example from [Botwinder](http://botwinder.info):
 <br /> Command `!ban @user 12h Posting inappropriate images and ignoring the authority.` will not only ban them for 12 hours and add a note to the user database, that the user was banned for 12 hours for _"posting inappropriate images and ignoring the authority,"_ but it will also PM the user with this message. See `Figure 2`.
@@ -74,7 +74,7 @@ Moderation is very important part of community management. Let me begin by expla
 
  &nbsp; I should also mention, that there are also people who join places only to [troll](http://www.urbandictionary.com/define.php?term=trolling) and cause problems. I would just get rid of those permanently - they are easy enough to identify by just talking to them and observing what they have to say in return.
 
-#### Discord example
+### Discord example
 
 How do we approach a conflict on Discord, or similar chat-rooms?
 
@@ -86,6 +86,6 @@ How do we approach a conflict on Discord, or similar chat-rooms?
 * You can now unmute the chilled two members, or you can just let [Botwinder](http://botwinder.info) automatically unmute them in a few minutes.
 * Last but not least, take yourself to a hidden channel and instruct the bot to add a note to the other two users as well, because verbal action is obviously not logged. You want to mention that they were involved in a conflict, but also that they did listen to you and moved on.
 
-#### Thanks!
+### Thanks!
 
  &nbsp; You made it this far, huh? Thank you for reading, feel free to comment below with your thoughts on the topic. Would you do something differently? Do you agree with me in the idea of trying to grow the community by talking to them?
