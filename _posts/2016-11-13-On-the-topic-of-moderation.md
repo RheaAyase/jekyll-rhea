@@ -29,7 +29,7 @@ Moderation is very important part of community management. Let me begin by expla
 
 {% include image.html
   img="assets/botwinder-antispam-pm.png"
-  title="Example PM from Botwinder to s spammer"
+  title="Example PM from Botwinder to a spammer"
   caption="Figure 1: Antispam bot PMing the spammer."
   url="http://rhea-ayase.eu/assets/botwinder-antispam-pm.png"
   align="center"
