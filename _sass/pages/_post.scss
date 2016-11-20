@@ -47,6 +47,7 @@ section.post {
 // Post title
 .post-title {
   font-family: $font-family-sc;
+  font-size: $font-size-other;
   word-spacing: 0.2em;
 }
 
@@ -66,6 +67,7 @@ section.post {
   font-weight: bold;
 	.post-date {
 		font-family: $font-family-sc;
+                font-size: $font-size-other;
 		color: $secondary;
 	}
 	.post-author {
@@ -74,6 +76,7 @@ section.post {
 	}
   .post-cat {
 		font-family: $font-family-sc;
+                font-size: $font-size-other;
 		color: $tertiary;
 	}
   .read-time {

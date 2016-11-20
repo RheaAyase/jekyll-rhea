@@ -8,7 +8,7 @@ pre, code {
   color: #525252;
   font-size: 0.9em;
   background-color: $codeblock-bg-color;
-  font-size: ($font-size-base - 3);
+  font-size: $font-size-monospace;
 }
 code {
   color: $code-color;

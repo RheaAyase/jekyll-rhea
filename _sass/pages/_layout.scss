@@ -42,14 +42,14 @@
     display: block;
     color: $secondary;
     font-family: $font-family-sc;
-    font-size: 0.8em;
+    font-size: 0.9em;
     font-weight: 700;
     word-spacing: 0.15em;
     margin: -5px auto 10px;
   }
   .author_bio {
     font-family: $font-family-serif;
-    font-size: 90%;
+    font-size: 1em;
     display: block;
   }
   @include media-query($medium-screen) {
@@ -60,6 +60,7 @@
 }
 .social-links {
   margin-top: 0.5em;
+  font-size: $font-size-other;
   ul {
     margin: 0;
     padding: 0;
@@ -81,6 +82,7 @@
   margin: 0;
   padding: 0;
   list-style: none;
+      font-family:$font-family-sans-alegreya;
   .nav-item {
     display: inline-block;
     *display: inline;
@@ -88,7 +90,6 @@
     & a {
       margin-top: 1em;
       text-transform: lowercase;
-      font-size: 85%;
       color: $secondary;
       &:hover,
       &:focus {
