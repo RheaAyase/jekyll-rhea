@@ -7,7 +7,7 @@ comments: true
 ---
 ### Question
 
-As you may know I'm kind of a Community Manager, running a few Discord communities and also an author of Community Management bot, [Botwinder<sup> 1</sup>](http://botwinder.info).
+As you may know I'm kind of a Community Manager, running a few Discord communities and also an author of Community Management [bot<sup> 1</sup>](http://botwinder.info)
 
 Several people asked me the following question over the last 24 hours: What do you think about audit logs?
 <br />
