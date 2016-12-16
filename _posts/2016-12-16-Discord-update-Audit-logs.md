@@ -7,11 +7,11 @@ comments: true
 ---
 ### Question
 
-As you may know I'm kind of a Community Manager, running a few Discord communities and also an author of Community Management bot, [Botwinder](http://botwinder.info).
+As you may know I'm kind of a Community Manager, running a few Discord communities and also an author of Community Management bot, [Botwinder<sup> 1</sup>](http://botwinder.info).
 
 Several people asked me the following question over the last 24 hours: What do you think about audit logs?
 <br />
-_(Discord announced a bunch of upcoming features and this is one of them.)_
+_(Discord [announced<sup> 2</sup>](https://blog.discordapp.com/year-end-teaser-search-screen-share-video-chat-audit-logs-and-channel-organization) a bunch of upcoming features and this is one of them.)_
 
 <!--more-->
 
@@ -38,3 +38,9 @@ And I still love Discord **:**]
 &nbsp;
 
 _Read my other article [On the topic of Moderation]({{site.url}}/articles/2016-11/On-the-topic-of-moderation)._
+
+------------
+
+1) Botwinder: [http://botwinder.info](http://botwinder.info)
+<br />
+2) Discord blog: Year End Teaser - Search, Screen Share, Video Chat, Audit Logs, and Channel Organization: [https://blog.discordapp.com/year-end-teaser-search-screen-share-video-chat-audit-logs-and-channel-organization](https://blog.discordapp.com/year-end-teaser-search-screen-share-video-chat-audit-logs-and-channel-organization)
