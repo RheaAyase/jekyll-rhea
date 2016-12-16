@@ -2,7 +2,7 @@
 layout: post
 title:  "On the topic of moderation"
 date:   2016-11-13 10:25:19
-categories: [community]
+categories: [community,discord]
 comments: true
 excerpt: "Moderation is very important part of community management. Let me begin by explaining these terms, so we understand what do I mean by what.
 <ul><li><b>Community manager</b> is the one who makes the rules, who lights the path and guides the rest of the team. All the responsibility in any community falls onto the CM, whether it is responsibility for the moderation team, administrators, or even the state of the community and how happy the members are.
