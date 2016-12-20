@@ -211,7 +211,7 @@ If you have staff role, set up permissions as explained above. Do not wallpaper 
 {% include image.html
   img="assets/discord-guide-permissions/wallpaper-red.png"
   title="Channel permissions"
-  caption="Figure 11: Staff channel permissions - <b>incorrectly</b> blocked <code>@everyone</code> - <b><i>red wallpaper</i></b>"
+  caption="Figure 12: Staff channel permissions - <b>incorrectly</b> blocked <code>@everyone</code> - <b><i>red wallpaper</i></b>"
   url="http://rhea-ayase.eu/assets/discord-guide-permissions/wallpaper-red.png"
   align="center"
   float="false"
@@ -221,7 +221,7 @@ If you have staff role, set up permissions as explained above. Do not wallpaper 
 {% include image.html
   img="assets/discord-guide-permissions/wallpaper-green.png"
   title="Channel permissions"
-  caption="Figure 11: Staff channel permissions - <b>incorrectly</b> allowed role - <b><i>green wallpaper</i></b>"
+  caption="Figure 13: Staff channel permissions - <b>incorrectly</b> allowed role - <b><i>green wallpaper</i></b>"
   url="http://rhea-ayase.eu/assets/discord-guide-permissions/wallpaper-green.png"
   align="center"
   float="false"
