@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Discord Guide: Server setup and Permissions"
-date:   2016-12-16 10:25:19
+date:   2016-12-20 11:25:19
 categories: [discord]
 comments: true
 ---
