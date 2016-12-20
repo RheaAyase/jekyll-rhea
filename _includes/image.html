@@ -4,7 +4,7 @@
   {% if include.url %}
   <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
   {% endif %}
-    <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
+    <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}" style="{% if include.border %}border-width: {{ include.border }}; border-style: solid; border-radius: 15px;{% endif %}" />
   {% if include.url %}
   </a>
   {% endif %}
