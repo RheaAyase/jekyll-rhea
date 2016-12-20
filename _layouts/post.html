@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<a class="btn" href= "{{ site.url }}/" >
+<a class="btn" href= "{{ site.url }}" >
   Home
 </a>
 {% if page.image.feature %}
@@ -11,7 +11,7 @@ layout: default
   {% if page.image.feature contains 'https' or page.image.feature contains 'http' %}
   "{{ page.image.feature }}"
   {% else %}
-  "{{ site.url }}/img/{{ page.image.feature }}"
+  "/assets/{{ page.image.feature }}"
   {% endif %}
   alt="{{ page.title }} feature image">
 
