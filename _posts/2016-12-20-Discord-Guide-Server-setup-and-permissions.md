@@ -9,6 +9,8 @@ How to correctly set up Discord server and channel permissions?
 <br />This guide assumes at least basic knowledge of Discord and server configuration.
 
 You can watch a [video guide here](https://youtu.be/tFjA3DUoiPU)<sup> 2</sup> or continue reading this written guide.
+<br />
+(Edit: I now have another video guide with complete basics that you should go through first, before going through this one, if you've never created a server before. [Check this playlist](https://www.youtube.com/playlist?list=PLq3HkeraP8n27r0_r2hFRWK_xvcQXqQaI)<sup> 2</sup>)
 
 <!--more-->
 
