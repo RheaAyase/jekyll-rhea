@@ -26,3 +26,4 @@ So this time around, our team-mates sounded like in their 20s, some even around 
 
 This happens to me every other game. 50% of this community is disgusting. It hurts...
 
+...and don't tell me that _"It's the internet *shrug*"_ - that is no excuse for inhuman behavior. You should act the same online as you would offline. I hope that the humanity will one day get to the point when they act like that, otherwise there is no hope for us.
