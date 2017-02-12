@@ -2,7 +2,7 @@
 layout: post
 title:  "Are you depressed?"
 date:   2016-12-19 21:07:19
-categories: [life]
+categories: [life,poetry]
 comments: true
 ---
 Feeling bad about yourself won't help you,
