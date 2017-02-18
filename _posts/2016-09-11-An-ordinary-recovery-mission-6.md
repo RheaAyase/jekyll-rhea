@@ -6,7 +6,8 @@ categories: [Elite Dangerous - CMDR Rhea]
 comments: true
 excerpt: " &nbsp; I open my eyes, still sleepy, but I've got job to do. <i>\"Kirea, any messages?\"</i> - <i>\"One new message, from Lieutenant Antoine Dubois.\"</i> - <i>\"Play the message.\"</i> Getting dressed while listening to it... that suicide ship was another Eagle, and it would seem that it had modified thrusters, just like the rest of them. Well, time to visit Felicity and talk about some business. I'm docked in one of the outside bays, I'll take one of those trains. It's pretty fast mag-lev transport, it would be rather long walk to the control tower otherwise."
 ---
-This is a story about my character in the [Elite Dangerous](https://www.youtube.com/watch?v=yEjNmKpVAgc) game. A story of love and adventure, with a taste of science and beauty of space ships.
+This is a story about my character in the [Elite Dangerous](https://www.youtube.com/watch?v=yEjNmKpVAgc) game.
+A story of love and adventure, with a taste of science and beauty of space ships. A diary written by Commander Rhea, passionate fighter pilot.
 
 List of mini-chapters:
 * [Day One]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-1) - An interesting night.

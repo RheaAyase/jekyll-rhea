@@ -8,7 +8,8 @@ excerpt: " &nbsp; I wake up, take a deep breath, and upon smelling the fresh nat
 <br /><br />
  &nbsp; <i>\"Warning, ship under attack!\"<i>"
 ---
-This is a story about my character in the [Elite Dangerous](https://www.youtube.com/watch?v=yEjNmKpVAgc) game. A story of love and adventure, with a taste of science and beauty of space ships.
+This is a story about my character in the [Elite Dangerous](https://www.youtube.com/watch?v=yEjNmKpVAgc) game.
+A story of love and adventure, with a taste of science and beauty of space ships. A diary written by Commander Rhea, passionate fighter pilot.
 
 List of mini-chapters:
 * [Day One]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-1) - An interesting night.

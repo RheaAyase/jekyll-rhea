@@ -7,7 +7,8 @@ comments: true
 excerpt: " &nbsp; I took a contract to recover lost cargo from crashed vessel. It was on some agricultural planet - night side. So I was chasing jettisoned cargo from damaged ship, in the atmosphere. They dropped it at high speed before ejecting themselves, to save it from the destruction. It got far enough from the crash site to be out of sensor range, so i didn't really know where it was...
 <br /> &nbsp; I was flying my Fer deLance in the general direction of their original heading, when I was met with several eagles and even an anaconda flying straight at me. I dropped it down to literally licking the ground, trying to get them to crash as they were chasing me."
 ---
-This is a story about my character in the [Elite Dangerous](https://www.youtube.com/watch?v=yEjNmKpVAgc) game. A story of love and adventure, with a taste of science and beauty of space ships.
+This is a story about my character in the [Elite Dangerous](https://www.youtube.com/watch?v=yEjNmKpVAgc) game.
+A story of love and adventure, with a taste of science and beauty of space ships. A diary written by Commander Rhea, passionate fighter pilot.
 
 List of mini-chapters:
 * [`Day One`]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-1) - An interesting night.

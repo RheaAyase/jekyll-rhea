@@ -6,7 +6,8 @@ categories: [Elite Dangerous - CMDR Rhea]
 comments: true
 excerpt: " &nbsp; I'm still sleepy, but it's already light outside... I'll just keep laying here in bed, it's so... beautiful. I'm happy, last night was awesome. We found each other by the terminal entrance, and then he took me to nice little restaurant by the river. I just went with whatever he suggested, and it was a good meal. After we've eaten, he took my hand and lead me to the river. You could see the bridge from there, it has beautiful lights. It was somewhat calm even though we are in a busy city."
 ---
-This is a story about my character in the [Elite Dangerous](https://www.youtube.com/watch?v=yEjNmKpVAgc) game. A story of love and adventure, with a taste of science and beauty of space ships.
+This is a story about my character in the [Elite Dangerous](https://www.youtube.com/watch?v=yEjNmKpVAgc) game.
+A story of love and adventure, with a taste of science and beauty of space ships. A diary written by Commander Rhea, passionate fighter pilot.
 
 List of mini-chapters:
 * [Day One]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-1) - An interesting night.

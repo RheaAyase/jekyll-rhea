@@ -7,7 +7,8 @@ comments: true
 excerpt: " &nbsp; The day passed, my ship is in a hangar with repair bots working around the clock. I'm laying on the bed in low gravity of a Coriolis station. I can't stop thinking about him. It's almost noon, i'm surprised that it's taking so long to fix the armor plating on my Fer deLance. There wasn't any hull integrity damage, it shouldn't be that big of a deal.
 <br /> &nbsp; <i>\"Incoming encoded transmission.\"</i> Daydreaming will have to wait..."
 ---
-This is a story about my character in the [Elite Dangerous](https://www.youtube.com/watch?v=yEjNmKpVAgc) game. A story of love and adventure, with a taste of science and beauty of space ships.
+This is a story about my character in the [Elite Dangerous](https://www.youtube.com/watch?v=yEjNmKpVAgc) game.
+A story of love and adventure, with a taste of science and beauty of space ships. A diary written by Commander Rhea, passionate fighter pilot.
 
 List of mini-chapters:
 * [Day One]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-1) - An interesting night.

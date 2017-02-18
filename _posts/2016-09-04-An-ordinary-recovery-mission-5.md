@@ -6,7 +6,8 @@ categories: [Elite Dangerous - CMDR Rhea]
 comments: true
 excerpt: " &nbsp; <i><b>*BLEEP BLEEP BLEEP BLEEP BLEEP*</b></i> - <i>\"...what's going on?! Kirea shut it off!\"</i> Why is the impact warning waking me up in the middle of the night?! I better run to the bridge. <i>\"Status?\"</i> - <i>\"All systems functioning within specified parameters.\"</i> I notice an incoming ship on the scanner as I jump into the seat.. It's heading right for me. <i>\"Engage thrusters, maximum power!\"</i> I'm betting on the speed rather than shield strength right now. Boosting off of the landing pad with thrusters full vertical up, slamming the throttle forward really hard, just to hear an explosion behind me and alarm go off... <i>\"Under attack.\"</i> she said. Shrapnel from the explosion I guess. What on earth was that, anyway?"
 ---
-This is a story about my character in the [Elite Dangerous](https://www.youtube.com/watch?v=yEjNmKpVAgc) game. A story of love and adventure, with a taste of science and beauty of space ships.
+This is a story about my character in the [Elite Dangerous](https://www.youtube.com/watch?v=yEjNmKpVAgc) game.
+A story of love and adventure, with a taste of science and beauty of space ships. A diary written by Commander Rhea, passionate fighter pilot.
 
 List of mini-chapters:
 * [Day One]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-1) - An interesting night.
