@@ -7,7 +7,7 @@ comments: true
 ---
 I've seen many sad stories and struggles when it comes to upgrading Fedora 24 to 25. I did not want to risk this while I had all kinds of conferences and responsibilities, however, today my `synergy` decided to not quite work properly. Funny enough, only half of my keyboard was working, some keys did not spawn the delicate letters. For this reason, I have decided to upgrade to Fedora 25 now, I was thinking _"It's already broken, can't be worse right?"_
 
-<!-- more -->
+<!--more-->
 
 And so I did it. A few simple keystrokes, two gigabytes of data downloaded, and here I am. Fedora 25 is up and running, without any issues. Even `synergy` is fixed \o/
 
