@@ -11,17 +11,9 @@ A story of love and adventure, with a taste of science and beauty of space ships
 
 _Read [the first chapter]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-1) before you start with this one **=)**_
 
-<!--
 List of mini-chapters:
-* [Day One]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-1) - An interesting night.
-* [Day Two]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-2) - Problems in the paradise!
-* [Day Three]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-3) - It's not over yet...
-* [Day Four]({{ site.url }}/articles/2016-08/An-ordinary-recovery-mission-4) - Am I in Love?
-* [Day Five]({{ site.url }}/articles/2016-09/An-ordinary-recovery-mission-5) - Wake up!
-* [`Day Six`]({{ site.url }}/articles/2016-09/An-ordinary-recovery-mission-6) - Gotcha ò\_ó
-* [Just another trade-escort](https://www.youtube.com/watch?v=O3zY_zafRLQ) (video gameplay episode)
--->
-&nbsp;
+* [`Day One`]({{ site.url }}/articles/2017-02/Commander-Rhea-chapter-2-1) - I'm hungry
+* [Day Two]({{ site.url }}/articles/2017-03/Commander-Rhea-chapter-2-2) - Catch them all!
 
 ### A few universal months later...
 
@@ -40,9 +32,8 @@ List of mini-chapters:
   &nbsp; _"Kirea re-enable comms and open channel to the Baynes naval command."_ _*bleep*_ _"Commander Rhea, Fer deLance Romeo Hotel Echo Alpha, Elite. Reporting shots fired in the sector G14. Target Imperial Eagle suspect in the Deathrace last seen headed towards the city center, lost shields and disappeared in the clouds, I was unable to keep up."_ - _"Thank you Commander, at least you're the first one who managed to hit that thing."_ I'm not gonna chase him, I'm hungry...
 
 &nbsp;
-<!--
-[Next mini-chapter]()
--->
+
+[Next mini-chapter]({{ site.url }}/articles/2017-03/Commander-Rhea-chapter-2-2)
 
 
 
