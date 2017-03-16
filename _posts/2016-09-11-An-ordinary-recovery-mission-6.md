@@ -18,7 +18,7 @@ List of mini-chapters:
 * [`Day Six`]({{ site.url }}/articles/2016-09/An-ordinary-recovery-mission-6) - Gotcha ò\_ó
 * [Just another trade-escort](https://www.youtube.com/watch?v=O3zY_zafRLQ) (video gameplay episode)
 
-&nbsp;
+_Looking for [the second chapter]({{ site.url }}/articles/2017-02/Commander-Rhea-chapter-2-1)?_
 
 ### Day Six
 
