@@ -14,6 +14,7 @@ _Read [the first chapter]({{ site.url }}/articles/2016-08/An-ordinary-recovery-m
 List of mini-chapters:
 * [Day One]({{ site.url }}/articles/2017-02/Commander-Rhea-chapter-2-1) - I'm hungry...
 * [`Day Two`]({{ site.url }}/articles/2017-03/Commander-Rhea-chapter-2-2) - Catch them all!
+* [Day Three]({{ site.url }}/articles/2017-03/Commander-Rhea-chapter-2-3) - Date gone wrong.
 
 ### I'm still hungry...
 
@@ -34,29 +35,6 @@ List of mini-chapters:
  &nbsp; _"Wanna go home now?"_ Asking Eric. _"Yeah sure. Coming with me? We could go out for dinner."_ - _"I would love that. Kirea, request landing permission."_
 
 &nbsp;
-<!--
-[Next mini-chapter]()
--->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Next mini-chapter]({{ site.url }}/articles/2017-03/Commander-Rhea-chapter-2-3)
 
