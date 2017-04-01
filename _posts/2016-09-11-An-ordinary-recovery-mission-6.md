@@ -44,3 +44,4 @@ _Looking for [the second chapter]({{ site.url }}/articles/2017-02/Commander-Rhea
 &nbsp;
 
 [Next mini-chapter](https://www.youtube.com/watch?v=O3zY_zafRLQ) (youtube - gameplay video)
+[Next Chapter]({{ site.url }}/articles/2017-02/Commander-Rhea-chapter-2-1)
