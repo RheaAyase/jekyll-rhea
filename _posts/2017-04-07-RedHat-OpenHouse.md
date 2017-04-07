@@ -51,7 +51,7 @@ It's over, I kinda survived but almost died in there! I was supposed to be in a 
 {% include image.html
   img="assets/openhouse-2017/photo-1-small.jpg"
   title="Attendees trying to squeeze into the meeting room..."
-  caption="Attendees trying to squeeze into the meeting room..."
+  caption="Attendees trying to squeeze into the meeting room... (credit: Lukas Musil)"
   url="http://rhea-ayase.eu/assets/openhouse-2017/photo-1-large.jpg"
   align="center"
   float="false"
@@ -70,7 +70,7 @@ I also touched on the available C# IDEs that people can use on Linux...
 {% include image.html
   img="assets/openhouse-2017/photo-2-small.jpg"
   title="Photo of Radka speaking - about to write some code"
-  caption="Photo of Radka speaking - about to write some code"
+  caption="Photo of Radka speaking - about to write some code (credit: Lukas Musil)"
   url="http://rhea-ayase.eu/assets/openhouse-2017/photo-2-large.jpg"
   align="center"
   float="false"
