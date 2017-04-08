@@ -59,10 +59,10 @@ It's over, I kinda survived but almost died in there! I was supposed to be in a 
 %}
 
 My talk was about C# on Linux, I explained what is it .NET Core, and that it's awesome!  
-_(Multi-platform open-source and modular platform for server oriented applications.)_
+_(Multi-platform, open-source and modular platform for server oriented applications.)_
 
 I also touched on the available C# IDEs that people can use on Linux...  
-* MonoDevelop, the good old mono IDE. Does not support .NET Core though.
+* MonoDevelop - the good old mono IDE. Does not support .NET Core though.
 * Eclipse with some [plugins](https://github.com/mickaelistria/aCute) - does not support .NET Core either (yet)
 * Visual Studio Code - very plugin based IDE which I don't like **:D**
 * JetBrains Rider - so far the only fully capable C# IDE out there! Supports all the things **`<3`**
