@@ -2,7 +2,7 @@
 layout: post
 title:  "Moderation guidelines for inclusive community"
 date:   2017-04-15 10:25:19
-categories: [community,discord]
+categories: [community]
 comments: true
 ---
  &nbsp; My previous article [On the topic of moderation]({{ site.url }}/articles/2016-11/On-the-topic-of-moderation) was very Discord-specific. In this one I aim to address wider audience and focus on inclusion. What does that mean? I would like to express my Idea about moderating a large and diverse community, whether it's in an IRC chat, forum or mailing lists, in a way that will create safe environment for members of all shapes and colours. This is an important task especially in open source communities, such as the most important one to me, the Fedora community. I will be talking to _you_ assuming that you are the Community Manager (CM) responsible for setting the moderation guidelines in your community.
