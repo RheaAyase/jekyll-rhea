@@ -52,6 +52,7 @@ comments: true
 1. Homophobic language or racial slurs are immature and you should not use them.
 1. Do not post explicitly sexual, gore or otherwise disturbing content. This includes jokes and memes that have somewhat racist background.
 1. Do not break the application and do not spam.
+1. Avoid sensitive topics, such as politics or religion.
 1. Respect the authority and do not troll moderators on duty. Do not impersonate Admins or Mods, or anyone else.
 1. Use common sense together with everything above.
 
