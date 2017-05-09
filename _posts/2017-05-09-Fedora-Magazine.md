@@ -7,7 +7,7 @@ comments: true
 ---
 ##### Interview
 
-It was about two months ago, when I was approached by [Charles Profitt](https://fedoraproject.org/wiki/User:Cprofitt), author of the _"How do you Fedora"_ series and Editor of the [Fedora Magazine](https://fedoramagazine.org/). He noticed my contributions to Fedora project and wanted to do a little interview with me and write an article about how do I use Fedora. _"Sure, why not"_ I replied, with a smiley as usual **=)**
+It was about two months ago, when I was approached by [Charles Profitt](https://fedoraproject.org/wiki/User:Cprofitt), author of the _"How do you Fedora"_ series and Editor of the [Fedora Magazine](https://fedoramagazine.org/). He noticed my contributions to Fedora project and wanted to do a little interview with me and write an article about how do I use Fedora. _"Sure, why not,"_ I replied with a smiley as usual **=)**
 
 <!--more-->
 
