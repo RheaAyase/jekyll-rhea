@@ -3,6 +3,12 @@ layout: page
 title:  "Minecraft"
 comments: false
 ---
+##### Persephone project
+
+Our server lives from [donations](https://www.paypal.me/RheaAyase) and [Patreon](https://www.patreon.com/RheaAyase) contributions.
+
+Curious about server status? [http://status.persephone.cloud](status.persephone.cloud) _(Scroll down to find Minecraft service status.)_
+
 ##### How To
 
 _//TODO - How to install it, add the mods, on both win & linux._
