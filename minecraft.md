@@ -19,6 +19,7 @@ Our Minecraft server is running our own, relatively light [Jefi's modpack](). _*
 
 <u>Utils:</u>
 * Better BUilder's Wands
+* FTB Utilities
 * HWYLA
 * Inventory Tweaks
 * Journey Map
