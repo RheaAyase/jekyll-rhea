@@ -9,19 +9,28 @@ Our server lives from [donations](https://www.paypal.me/RheaAyase) and [Patreon]
 
 Curious about server status? [http://status.persephone.cloud](status.persephone.cloud) _(Scroll down to find Minecraft service status.)_
 
-##### How To
+##### Download
 
-_//TODO - How to install it, add the mods, on both win & linux._
+<u>Windows</u>
+
+1. Get [TwitchApp](https://app.twitch.tv)
+2. Go to the Minecraft tab and hit _Browse All Modpacks._
+3. Search for `jefi` and you will find our packs.
+4. Install, get whitelisted, enjoy.
+
+<u>Linux</u>
+
+`//TODO next week...`
 
 ##### Whitelist
 
 Our Minecraft server is whitelisted. This means that only allowed people can connect.
 
-Get in touch with one of our Minecraft moderators in the [Jefi's Nest Discord](https://discord.gg/) in order to get whitelisted. _(Random people will not be able to join.)_
+Get in touch with one of our `@Minecraft Moderators` in the [Jefi's Nest Discord](https://discord.gg/) in order to get whitelisted. _(Random people will not be able to join.)_
 
 ##### Mods
 
-Our Minecraft server is running our own, relatively light [Jefi's modpack](). _**//TODO - add link**_
+Our Minecraft server is running the latest version of our own, relatively light [Jefi's modpack](https://mods.curse.com/modpacks/minecraft/267588-jefis-modpack) using the [Forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.10.2.html) 1.10.2 - 12.18.3.2297
 
 <u>Utils:</u>
 * Better BUilder's Wands
@@ -44,6 +53,7 @@ Our Minecraft server is running our own, relatively light [Jefi's modpack](). _*
 * Open Glider
 * OpenBlocks Elevator
 * Simply Jetpacks 2
+* Tinkers Construct
 
 <u>Engineering:</u>
 * Applied Energistics 2
