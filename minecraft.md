@@ -3,6 +3,9 @@ layout: page
 title:  "Minecraft"
 comments: false
 ---
+
+Jefi's minecraft server is a bit of survival with some engineering in it. Beware the enchanted monsters!
+
 ##### Persephone project
 
 Our server lives from [donations](https://www.paypal.me/RheaAyase) and [Patreon](https://www.patreon.com/RheaAyase) contributions.
