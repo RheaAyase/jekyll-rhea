@@ -7,7 +7,7 @@ comments: false
 
 Our server lives from [donations](https://www.paypal.me/RheaAyase) and [Patreon](https://www.patreon.com/RheaAyase) contributions.
 
-Curious about server status? [http://status.persephone.cloud](status.persephone.cloud) _(Scroll down to find Minecraft service status.)_
+Curious about server status? [status.persephone.cloud](http://status.persephone.cloud) _(Scroll down to find Minecraft service status.)_
 
 ##### Download
 
