@@ -30,11 +30,12 @@ Get in touch with one of our `@Minecraft Moderators` in the [Jefi's Nest Discord
 
 ##### Mods
 
-Our Minecraft server is running the latest version of our own, relatively light [Jefi's modpack](https://mods.curse.com/modpacks/minecraft/267588-jefis-modpack) using the [Forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.10.2.html) 1.10.2 - 12.18.3.2297
+Our Minecraft server is running the latest version of our own, relatively light [Jefi's modpack](https://minecraft.curseforge.com/projects/jefis-modpack?gameCategorySlug=modpacks&projectID=267588) using the [Forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.10.2.html) 1.10.2 - 12.18.3.2297
 
 <u>Utils:</u>
 * Better BUilder's Wands
 * FTB Utilities
+* GraveStone
 * HWYLA
 * Inventory Tweaks
 * Journey Map
