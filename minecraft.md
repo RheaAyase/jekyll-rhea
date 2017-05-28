@@ -37,6 +37,8 @@ Our Minecraft server is running the latest version of our own, relatively light 
 
 <u>Utils:</u>
 * Better BUilder's Wands
+* Ex Nihilo Acensio
+* EZStorage 2
 * FTB Utilities
 * GraveStone
 * HWYLA
@@ -48,6 +50,7 @@ Our Minecraft server is running the latest version of our own, relatively light 
 * Apple Trees
 * AtomicStryker's Infernal Mobs
 * Monsters and Dungeons
+* Simply Juices
 * Wolf Armor and Storage
 
 <u>Tech:</u>
