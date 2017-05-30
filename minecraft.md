@@ -55,7 +55,7 @@ Our Minecraft server is running the latest version of our own, relatively light 
 * Big Doors
 * Cooking for Blockheads
 * Draconic Evolution
-* Ex Nihilo Acensio
+* Ex Nihilo Adscensio
 * EZStorage 2
 * Iron Backpacks
 * Open Glider
