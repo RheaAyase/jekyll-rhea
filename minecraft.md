@@ -37,8 +37,6 @@ Our Minecraft server is running the latest version of our own, relatively light 
 
 <u>Utils:</u>
 * Better BUilder's Wands
-* Ex Nihilo Acensio
-* EZStorage 2
 * FTB Utilities
 * GraveStone
 * HWYLA
@@ -54,8 +52,11 @@ Our Minecraft server is running the latest version of our own, relatively light 
 * Wolf Armor and Storage
 
 <u>Tech:</u>
+* Big Doors
 * Cooking for Blockheads
 * Draconic Evolution
+* Ex Nihilo Acensio
+* EZStorage 2
 * Iron Backpacks
 * Open Glider
 * OpenBlocks Elevator
