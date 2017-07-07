@@ -19,7 +19,7 @@ So to begin with I managed to shrink my data down to some 1.5TB and move it into
 
 #### The idea
 
-I would like to have RAID1 between the 2TB and the 3TB drive, which will leave me with 1TB of free space on the bigger drive. I decided to use that 1TB leftover and the small 500GB drive in LVM, then to move all the data from the 2TB drive over there, and whatever won't fit into my desktop over network. This meant NFS or Samba... //TODO
+I would like to have RAID1 between the 2TB and the 3TB drive, which will leave me with 1TB of free space on the bigger drive. I decided to use that 1TB leftover and the small 500GB drive in LVM, then to move all the data from the 2TB drive over there, and whatever won't fit into my desktop over network. This meant NFS or Samba...
 
 #### Partitions
 
