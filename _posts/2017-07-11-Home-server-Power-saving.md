@@ -5,7 +5,9 @@ date:   2017-07-11 21:15:00
 categories: [code]
 comments: true
 ---
-I was talking about setting up `RAID1` and deploying `Nextcloud` in my [previous post]({{ site.url }}articles/2017-07/Migrating-from-unRAID-to-Fedora). This time around I wanted to make it eat less power, since I'm gonna be running it 24/7. I used to shut it down when I knew I wasn't going to need it for longer time, especially in summer. So, here is what I did to make my home server eat less power, and generate less heat as well.
+I was talking about setting up `RAID1` and deploying `Nextcloud` on Fedora server, in my [previous post]({{ site.url }}articles/2017-07/Migrating-from-unRAID-to-Fedora). This time around I wanted to make it eat less power, since I'm gonna be running it 24/7. I used to shut it down when I knew I wasn't going to need it for longer time, especially in summer. So, here is what I did to make my home server eat less power, and generate less heat as well.
+
+
 
 <!--more-->
 
