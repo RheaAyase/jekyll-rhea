@@ -61,12 +61,12 @@ comments: false
 
  &nbsp; Iaido was recently replaced by a new passion of mine, or maybe newly reborn? I used to do a coupple thousand kilometers on a bike every summer, when I was a kid. We used to go on long holiday with my dad, sleeping in a tent and stuff. I've now returned to that after good 12 years of not touching a bike. I sold my car and bought a Mountain Bike instead (for twice as much as I got from the car.)
 
- &nbsp; If you're interested in following my adventures from here on, follow me on [twitter](https://twitter.com/RheaAyase) and [instagram](https://instagram.com/rhea.ayase) **=)**
+ &nbsp; If you're interested in following my adventures from here on, follow me on [twitter](https://twitter.com/RheaAyase) **=)**
 
 {% include spacer.html %}
 
 {% include image.html
-  img="assets/Keiyu_01.jpg"
+  img="assets/Keiyu_01-large.jpg"
   title="Rhea's Mountain Bike"
   caption="The bike is called <b>Keiyu</b>. No special meaning, just something I like :P"
   url="http://rhea-ayase.eu/assets/Keiyu_01-large.jpg"
