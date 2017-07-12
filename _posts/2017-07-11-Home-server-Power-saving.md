@@ -99,11 +99,11 @@ WantedBy=multi-user.target
 
 `systemctl enable --now powertop` - Now simply enable this service and run it.
 
-##### Thanks!
+#### Thanks!
 
 I hope that this was useful post for someone, most of it will also apply to notebook users. If you are interested in very detailed guide to power management, I recommend reading the [RHEL Power Management Guide <sup>3</sup>](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Power_Management_Guide/index.html)
 
-#### A little tip
+##### A little tip
 
 Did you ever run `vim` without sudo while editing a service, such as the above? Then you write all the things and only when you're done you will notice that you can't save it. Add this to your `~/.vimrc` file:
 <br>`cmap w!! w !sudo tee >/dev/null %` - And now you can nicely save it using our cute _"write!!"_ `:w!!` command **:]**
