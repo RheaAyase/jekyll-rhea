@@ -43,7 +43,7 @@ We sat in a nearby restaurant to get 5 minutes of rest and something to drink to
 {% include image.html
   img="assets/dotnettalks/Microsoft-TechTalks-Prague.jpg"
   title="Radka talking in the Microsoft Prague."
-  caption=""
+  caption="<i>Photo credit: wug.com</i>"
   url="http://rhea-ayase.eu/assets/dotnettalks/Microsoft-TechTalks-Prague.jpg"
   align="left"
   float="true"
