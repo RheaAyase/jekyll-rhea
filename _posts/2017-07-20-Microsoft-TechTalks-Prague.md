@@ -7,7 +7,7 @@ comments: true
 ---
 ##### In the morning.
 
-This time around I was actually prepared with everything in [github](https://github.com/RheaAyase/dotnettalks.demo3) for interested people to check out after the talk and i was wearing my new Red Hat loves .NET shirt, what else would I need?
+This time around I was actually prepared with everything in [github](https://github.com/RheaAyase/dotnettalks.demo3) for interested people to check out after the talk and i was wearing my new `Red Hat loves .NET` shirt, what else would I need?
 
 <!--more-->
 
@@ -81,5 +81,5 @@ After it was over we still had two hours before we had to catch metro and bus ho
 
 And so it is late night and I'm sitting in a bus, writing this post. I've been awake for 20 hours, and it's at least two more til we get home.
 
-_I hope to see you guys again in Brno on the 1st of August. Hopefully with a few less issues_ **x.x**
+_I hope to see you guys again in [Brno on the 1st of August](https://www.wug.cz/brno/akce/952--Net-TechTalks). Hopefully with a few less issues_ **x.x**
 
