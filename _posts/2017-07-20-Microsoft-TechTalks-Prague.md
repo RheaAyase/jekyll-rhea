@@ -43,7 +43,7 @@ We sat in a nearby restaurant to get 5 minutes of rest and something to drink to
 {% include image.html
   img="assets/dotnettalks/Microsoft-TechTalks-Prague.jpg"
   title="Radka talking in the Microsoft Prague."
-  caption="<i>Photo credit: wug.com</i>"
+  caption="<i>Photo credit: wug.cz</i>"
   url="http://rhea-ayase.eu/assets/dotnettalks/Microsoft-TechTalks-Prague.jpg"
   align="left"
   float="true"
@@ -59,9 +59,21 @@ The talk itself did not go well either. I plugged in a cable that was sticking o
 
 Finished the rest fine, except that I forgot to ask if anyone had any questions after all that trouble **:<**
 
+{% include spacer.html %}
+
+{% include image.html
+  img="assets/dotnettalks/Microsoft-TechTalks-Prague-conference.jpg"
+  title="The conference room in Microsoft Prague."
+  caption="<i>Photo credit: wug.cz</i>"
+  url="http://rhea-ayase.eu/assets/dotnettalks/Microsoft-TechTalks-Prague-conference.jpg"
+  align="right"
+  float="true"
+  width="50%"
+  border="1px"
+%}
+
 I really liked the performance talk from [Adam Sitnik](http://adamsitnik.com/), I fully recommend looking it up on youtube or something!
 
-{% include spacer.html %}
 
 ##### Afterparty?
 
