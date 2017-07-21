@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Microsoft TechTalks in Prague - aka what else could go wrong?"
-date:   2017-07-20 12:00:00
+date:   2017-07-21 10:00:00
 categories: [code]
 comments: true
 ---
