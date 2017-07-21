@@ -22,7 +22,7 @@ We got to the office and I finally picked up a package that was waiting for me f
 {% include image.html
   img="assets/redhatloves.net-1.jpg"
   title="Radka in her new Red Hat loves .NET T-Shirt."
-  caption="Our new T-Shirts are awesome ;)  (Photo taken at home, next to an awesome painting!)"
+  caption="Our new T-Shirts are awesome ;) &nbsp; <i>(Photo taken at home, next to an awesome painting!)</i>"
   url="http://rhea-ayase.eu/assets/redhatloves.net-1.jpg"
   align="right"
   float="true"
