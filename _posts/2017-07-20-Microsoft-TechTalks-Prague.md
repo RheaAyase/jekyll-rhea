@@ -53,7 +53,7 @@ We sat in a nearby restaurant to get 5 minutes of rest and something to drink to
 
 We sat down in the first row and I prepared my stuff during the first talk - I was going second. The room was full. Not big, but full. It has a capacity of 150-ish people. Okay, I'm ready... ready to improvise anyway, eh?
 
-So it's the time. Oh turns out that the microphone is not ready. Nevermind, the room does have pretty good acoustics and I should be fine. People in the back did nod when I asked if they can hear me.
+So it's the time. Oh turns out that the microphone is not ready. Nevermind, the room does have pretty good acoustics and I should be fine. People in the back did nod when I asked if they can hear me. _(Edit a day later: I did damage my voice a little and it's all messy now.)_
 
 The talk itself did not go well either. I plugged in a cable that was sticking out, some sort of ethernet situation you know. I did not notice that it didn't actually connect into any network, it must have been unplugged on the other end - wherever that was heh. So halfway through my talk I found out that I'm not connected, when I couldn't ssh into my Azure VM where I wanted to demonstrate simple ASP.NET Core application deployment with apache proxy and systemd running it. I had to quickly connect to wifi, where they had some log-in system with speaker password that wasn't hidden, so i had to unplug the hdmi cable cause i couldn't shut it off in the software (don't ask why it didn't work, I don't know.)
 
