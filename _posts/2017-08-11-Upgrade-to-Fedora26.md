@@ -16,6 +16,16 @@ So here I am, upgrading my Fedora to 26 a month late again. I did not want to ri
 
 It took a little over half an hour and nearly `2GBs` of downloaded date to get it upgraded. No issues, just one surprise when I started `weechat`. There were **two** buffer lists and some random errors printed in the middle of the chat screen.
 
+{% include image.html
+  img="assets/bugs-weechat.jpg"
+  title="Surprise issues with WeeChat"
+  caption="Surprise issues with WeeChat"
+  url="http://rhea-ayase.eu/assets/bugs-weechat.jpg"
+  align="center"
+  float="false"
+  border="1px"
+%}
+
 ##### Locale issue
 
 One by one, from the random errors I can see that it's something to do with locale.
