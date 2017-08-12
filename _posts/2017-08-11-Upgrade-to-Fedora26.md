@@ -14,7 +14,7 @@ So here I am, upgrading my Fedora to 26 a month late again. I did not want to ri
 
 ##### Upgrading
 
-It took a little over half an hour and nearly `2GBs` of downloaded date to get it upgraded. No issues, just one surprise when I started `weechat`. There were **two** buffer lists and some random errors printed in the middle of the chat screen.
+It took a little over half an hour and nearly `2GBs` of downloaded data to get it upgraded. No issues, just one surprise when I started `weechat`. There were **two** buffer lists and some random errors printed in the middle of the chat screen.
 
 {% include image.html
   img="assets/bugs-weechat.jpg"
