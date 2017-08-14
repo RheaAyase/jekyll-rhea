@@ -8,7 +8,7 @@ comments: true
 Upgrading Linux workstation to a new version? Everything is going to break!!! O\_O
 <br />...oh don't worry, it will be fine with Fedora =)
 
-So here I am, upgrading my Fedora to 26 a month late again. I did not want to risk screwing it up just before [my talks]({{ site.url }}articles/2017-08/Microsoft-TechTalks-Brno). I'm finally free of anything stressful and have just regular work on my plate, I can do it now!
+So here I am, upgrading my Fedora to 26 a month late again. I did not want to risk screwing it up just before [my talks]({{ site.url }}/articles/2017-08/Microsoft-TechTalks-Brno). I'm finally free of anything stressful and have just regular work on my plate, I can do it now!
 
 <!--more-->
 

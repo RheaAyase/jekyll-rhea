@@ -18,7 +18,7 @@ excerpt: "Another talk at another conference type of thing. Everything ready, in
   border="1px"
 %}
 
-Another talk at another conference type of thing. [Everything ready](https://github.com/RheaAyase/dotnettalks.demo4), including myself. Surprisingly everything was so smooth, that I have literally nothing to write about (as opposed to the [previous one]({{ site.url }}articles/2017-07/Microsoft-TechTalks-Prague))
+Another talk at another conference type of thing. [Everything ready](https://github.com/RheaAyase/dotnettalks.demo4), including myself. Surprisingly everything was so smooth, that I have literally nothing to write about (as opposed to the [previous one]({{ site.url }}/articles/2017-07/Microsoft-TechTalks-Prague))
 
 Easy morning without rushing, picked up a package in the office and went for lunch. Then the talk, ate pizza, went to a pub with the Microsoft team and others, had some fun, and chat... _\*shrugs*_
 
