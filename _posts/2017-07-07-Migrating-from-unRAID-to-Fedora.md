@@ -70,22 +70,22 @@ Oh and... fstab of course.
  &nbsp; Now I changed the `/etc/php.d/30-pdo_mysql.ini` to reflect the database changes plus whatever else did they mention in the nextcloud docs:
 
 ```
- 1 ; Enable pdo_mysql extension module
- 2 extension=pdo_mysql.so
- 3
- 4 [mysql]
- 5 mysql.allow_local_infile=On
- 6 mysql.allow_persistent=On
- 7 mysql.cache_size=2000
- 8 mysql.max_persistent=-1
- 9 mysql.max_links=-1
-10 mysql.default_port=
-11 mysql.default_socket=/mnt/raid/mysql/mysql.sock
-12 mysql.default_host=127.0.0.1
-13 mysql.default_user=project
-14 mysql.default_password=
-15 mysql.connect_timeout=60
-16 mysql.trace_mode=Off
+; Enable pdo_mysql extension module
+extension=pdo_mysql.so
+
+[mysql]
+mysql.allow_local_infile=On
+mysql.allow_persistent=On
+mysql.cache_size=2000
+mysql.max_persistent=-1
+mysql.max_links=-1
+mysql.default_port=
+mysql.default_socket=/mnt/raid/mysql/mysql.sock
+mysql.default_host=127.0.0.1
+mysql.default_user=project
+mysql.default_password=
+mysql.connect_timeout=60
+mysql.trace_mode=Off
 ```
 
  &nbsp; Next, ports and firewall stuffs... I am not running it on default http and https so I had to open that up, plus set it up in my router and the usual network nonsense.
