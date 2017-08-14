@@ -9,7 +9,7 @@ So it's my birthday now and I've been wearing my Red Hat for a little over a yea
 
 <!--more-->
 
-I started as .NET Engineer, I went through all kinds of trainings and courses. During the first few months I got to look at Azure from all kinds of different angles and I learned some basic stuff about Red Hat.
+I started at Red Hat last summer (2016) as .NET Engineer, I went through all kinds of trainings and courses. During the first few months I got to look at Azure from all kinds of different angles and I learned some basic stuff about Red Hat.
 
 {% include image.html
   img="img/avatar-redhat4-square.png"
