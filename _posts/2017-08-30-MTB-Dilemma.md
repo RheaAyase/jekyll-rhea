@@ -60,9 +60,9 @@ On my XC bike I am pedalling at highly efficient frequency at around `48 km/h` i
 | 32 | 3.20 | 38.4 km/h |
 | 34 | 3.40 | 40.8 km/h |
 
-The question is obvious... Should I take `32` and have good low gears, or do I want `34` to get higher top speed by `2.4 km/h` but sacrificing whole `0.02` ratio up the hill?
+##### 32 or 34? Or just keep it stock?
 
-##### 32 or 34?!
+The question is obvious... Should I take `32` and have good low gears, or do I want `34` to get higher top speed by `2.4 km/h` but sacrificing whole `0.05` ratio up the hill? I'm leaning towards 32 as it is somewhere between the two lowest gears on my XC bike, and the highest speed I can get while being in that range. And `2.4 km/h` won't make the difference.
 
 Feel free to leave me your opinion in the comments below, or on twitter, or Discord.
 
