@@ -54,8 +54,8 @@ On my XC bike I am pedalling at highly efficient frequency at around `48 km/h` i
 | Camber | Ratio | Effective top speed |
 |---|---|---|
 | 30 | 3.00 | 36.0 km/h |
-| 30 | 3.20 | 38.4 km/h |
-| 30 | 3.40 | 40.8 km/h |
+| 32 | 3.20 | 38.4 km/h |
+| 34 | 3.40 | 40.8 km/h |
 
 The question is obvious... Should I take `32` and have good low gears, or do I want `34` to get higher top speed by `2.4 km/h` but sacrificing whole `0.02` ratio up the hill?
 
