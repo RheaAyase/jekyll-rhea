@@ -50,7 +50,7 @@ Now I would like to get more speed, out of it, even at the cost of a minor sacri
 
 In the table above we can see that the `32` chainring has a ratio just below the 2nd gear on XC and `34` chainring would have a ratio just above the 2nd gear on XC.
 
-On my XC bike I am pedalling at highly efficient frequency at around `48 km/h` in a straight line (not down hill.) If we apply the ratio of `4.0` to this velocity, we will get `12 km/h` as my `1:1` effective speed. Multiplying it with the stock configuration ratio of `3.0` will give me **only** `36 km/h` as my effective top speed. Let's make another table with effective top speed for these ratios _(And no I don't need to take the wheel size into account as both bikes are 29")_
+On my XC bike I am pedalling at highly efficient frequency (90rpm) at around `48 km/h` in a straight line (not down hill.) If we apply the ratio of `4.0` to this velocity, we will get `12 km/h` as my `1:1` effective speed. Multiplying it with the stock configuration ratio of `3.0` will give me **only** `36 km/h` as my effective top speed. Let's make another table with effective top speed for these ratios at 90rpm cadence. _(And no I don't need to take the wheel size into account as both bikes are 29")_
 
 {: .centered .striped}
 | Camber | Ratio | Effective top speed |
