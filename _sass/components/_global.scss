@@ -38,7 +38,6 @@ td {
   vertical-align: bottom;
 }
 table {
-  width: 100%;
   display: table;
   &.bordered > thead > tr,
   &.bordered > tbody > tr {
@@ -47,6 +46,9 @@ table {
   &.striped > tbody {
     > tr:nth-child(odd) {
       background-color: $table-striped-color;
+    }
+    > tr:nth-child(even) {
+      background-color: $table-striped-color-even;
     }
     > tr > td {
       border-radius: 0;
@@ -71,7 +73,7 @@ thead {
 }
 td,
 th {
-  padding: 15px 5px;
+  padding: 5px 10px;
   display: table-cell;
   text-align: left;
   vertical-align: middle;

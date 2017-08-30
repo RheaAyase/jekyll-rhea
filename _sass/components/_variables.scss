@@ -69,8 +69,9 @@ $code-bg-color:    #ddeeff;
 $codeblock-bg-color:    $code-bg-color;
 
 // Tables
-$table-border-color: #d0d0d0 !default;
-$table-striped-color: #f2f2f2 !default;
+$table-border-color: $primary !default;
+$table-striped-color: #ddd3ee !default;
+$table-striped-color-even: #ccbbff !default;
 
 // Grid Variables
 $num-cols: 12 !default;
