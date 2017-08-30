@@ -39,6 +39,7 @@ td {
 }
 table {
   display: table;
+  margin-bottom: 25px;
   &.bordered > thead > tr,
   &.bordered > tbody > tr {
     border-bottom: 1px solid $table-border-color;
