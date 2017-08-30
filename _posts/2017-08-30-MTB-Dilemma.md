@@ -25,7 +25,7 @@ I fell in love with Specialized Camber Carbon 29" trail bike. It is a mountain b
 
 ##### The dilemma
 
-Camber has much slower gears than my old bike. I do like some speed. Camber has 30 tooth chainring, so called _one-by_. My XC had 44 highest gear, making it much much faster. To be more specific, Camber comes with gears that will give me a ratio of `3.00` while the XC had a ratio of `4.0`. To make it even worse, the lowest gear on Camber has the ratio of `0.71` while XC had `0.65`, making it less cool up the hill.
+Camber has much slower gears than my old bike. I do like some speed. Camber has 28 tooth chainring, so called _one-by_. My XC had 44 highest gear, making it much much faster. To be more specific, Camber comes with gears that will give me a ratio of `2.80` while the XC had a ratio of `4.0`. To make it even worse, the lowest gear on Camber has the ratio of `0.67` while XC had `0.65`, making it less cool up the hill.
 
 Now I would like to get more speed, out of it, even at the cost of a minor sacrifice to the low gears, because I've only rarely used my lowest gear on the old bike, and I would be fine with something close to my 2nd gear. I can change the front chain ring to 32 or 34 to get more out of it. Let's take a look at my options below...
 
@@ -39,6 +39,8 @@ Now I would like to get more speed, out of it, even at the cost of a minor sacri
 {: .centered .striped}
 | Camber | Gears | Ratio |
 |---|---|---|
+| highest | 28x10 | 2.80 |
+| lowest | 28x42 | 0.67 |
 | highest | 30x10 | 3.00 |
 | lowest | 30x42 | 0.71 |
 | highest | 32x10 | 3.20 |
@@ -53,6 +55,7 @@ On my XC bike I am pedalling at highly efficient frequency at around `48 km/h` i
 {: .centered .striped}
 | Camber | Ratio | Effective top speed |
 |---|---|---|
+| 28 | 2.80 | 33.6 km/h |
 | 30 | 3.00 | 36.0 km/h |
 | 32 | 3.20 | 38.4 km/h |
 | 34 | 3.40 | 40.8 km/h |
