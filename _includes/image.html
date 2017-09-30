@@ -1,5 +1,5 @@
 <!-- _includes/image.html -->
-<div class="image-wrapper" style="{% if include.width %}max-width: {{ include.width }};{% endif %}{% if include.align %}{% if include.align == "center" %} margin: 0 auto;{% else %} float: {{ include.align }}; margin-{% if include.align == "left" %}right{% else %}left{% endif %}: 20px;{% endif %}{% endif %}" >
+<div class="image-wrapper" style="{% if include.width %}max-width: {{ include.width }};{% elsif include.float == "true"  %} max-width: 50%;{% endif %}{% if include.align %}{% if include.align == "center" %} margin: 0 auto;{% else %} float: {{ include.align }}; margin-{% if include.align == "left" %}right{% else %}left{% endif %}: 20px;{% endif %}{% endif %}" >
   {% if include.align and include.align == "center" %}<div style="display: table-cell;">{% endif %}
   {% if include.url %}
   <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
