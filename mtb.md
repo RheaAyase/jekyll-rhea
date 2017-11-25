@@ -24,6 +24,16 @@ comments: true
   border="1px"
 %}
 
+{% include image.html
+  img="assets/2017-07-29-Jednovice-small.jpg"
+  title="Rhea & SpyTec on a XC vacation."
+  caption="Rhea & SpyTec on a XC vacation."
+  url="http://rhea-ayase.eu/assets/2017-07-29-Jednovice.jpg"
+  align="right"
+  float="true"
+  border="1px"
+%}
+
 #### Bike
 
 **Specialized Camber 29" carbon**
@@ -51,5 +61,5 @@ comments: true
 * [GoPro Hero Session](https://shop.gopro.com/EMEA/cameras/hero-session/CHDHS-102-master.html)
 * [Evo SS gimbal](https://www.evogimbals.com/products/evo-ss-3-axis-wearable-gimbal-for-gopro-hero-session-hero5-cameras)
 * [Peak Design Capture P.O.V.](https://www.peakdesign.com/capturepov) backpack mount (+ all kinds of other mounts)
-* [Samsung NX200](http://www.samsung.com/hk_en/cameras/nx200/)
+* [Samsung NX200](http://www.samsung.com/hk_en/cameras/nx200/) (+tripod)
 
