@@ -34,6 +34,8 @@ comments: true
   border="1px"
 %}
 
+[Bike Check video](https://www.youtube.com/watch?v=hZyzFQP1Rb8)
+
 #### Bike
 
 **Specialized Camber 29" carbon**
