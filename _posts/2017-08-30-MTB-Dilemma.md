@@ -29,14 +29,14 @@ Camber has much slower gears than my old bike. I do like some speed. Camber has 
 
 Now I would like to get more speed, out of it, even at the cost of a minor sacrifice to the low gears, because I've only rarely used my lowest gear on the old bike, and I would be fine with something close to my 2nd gear. I can change the front chain ring to 32 or 34 to get more out of it. Let's take a look at my options below...
 
-{: .centered .striped}
+{: .centered .striped .highlight}
 | XC | Gears | Ratio |
 |---|---|---|
 | highest | 44x11 | 4.00 |
 | lowest | 22x34 | 0.65 |
 | low | 22x28 | 0.79 |
 
-{: .centered .striped}
+{: .centered .striped .highlight}
 | Camber | Gears | Ratio |
 |---|---|---|
 | highest | 28x10 | 2.80 |
@@ -52,7 +52,7 @@ In the table above we can see that the `32` chainring has a ratio just below the
 
 On my XC bike I am pedalling at highly efficient frequency (90rpm) at around `48 km/h` in a straight line (not down hill.) If we apply the ratio of `4.0` to this velocity, we will get `12 km/h` as my `1:1` effective speed. Multiplying it with the stock configuration ratio of `3.0` will give me **only** `36 km/h` as my effective top speed. Let's make another table with effective top speed for these ratios at 90rpm cadence. _(And no I don't need to take the wheel size into account as both bikes are 29")_
 
-{: .centered .striped}
+{: .centered .striped .highlight}
 | Camber | Ratio | Effective top speed |
 |---|---|---|
 | 28 | 2.80 | 33.6 km/h |
