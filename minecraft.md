@@ -8,8 +8,6 @@ Jefi's minecraft server is a bit of survival with some engineering in it. Beware
 
 ##### Persephone project
 
-Our server lives from [donations](https://www.paypal.me/RheaAyase) and [Patreon](https://www.patreon.com/RheaAyase) contributions.
-
 Curious about server status? [status.persephone.cloud](http://status.persephone.cloud) _(Scroll down to find Minecraft service status.)_
 
 ##### Download
