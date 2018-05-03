@@ -9,7 +9,7 @@ It lives from [patreon](https://www.patreon.com/RheaAyase) contributions.
 
 You can find details and status of the server on our [esm page](http://status.persephone.cloud).
 
-Keyra is new, water cooled dual-xeon server in [Rhea's livingroom](https://cloud.rhea-ayase.eu/s/O2i5kF1nZhoyiEZ), connected to symmetric 301/300 mbps line. It's pink.
+Keyra is new, water cooled dual-xeon server in [Rhea's livingroom](https://cloud.rhea-ayase.eu/s/O2i5kF1nZhoyiEZ), connected to symmetric 300/300 mbps line. It's pink.
 
 {: .centered .striped .highlight}
 ||Component|Model||
@@ -30,8 +30,8 @@ Keyra is new, water cooled dual-xeon server in [Rhea's livingroom](https://cloud
 
 {% include image.html
   img="assets/keyra-01.jpg"
-  title="Keyra in its physical form"
-  caption="Keyra in its physical form"
+  title="Keyra in her physical form"
+  caption="Keyra in her physical form"
   url="http://rhea-ayase.eu/assets/keyra-01.jpg"
   align="center"
   float="false"
