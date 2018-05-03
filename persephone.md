@@ -4,10 +4,37 @@ title:  "Persephone project"
 comments: false
 ---
 
-Persephone is a [Fedora](https://fedoraproject.org) server providing hosting services to various open source projects.
-It lives from [donations](https://www.paypal.me/RheaAyase) and **[patreon](https://www.patreon.com/RheaAyase)** contributions.
+Keyra is a [Fedora](https://fedoraproject.org) server providing hosting services to various open source projects.
+It lives from [patreon](https://www.patreon.com/RheaAyase) contributions.
 
 You can find details and status of the server on our [esm page](http://status.persephone.cloud).
 
-This project is currently work in progress, it is being rebuilt from scratch with better infrastructure.
+Keyra is new, water cooled dual-xeon server in [Rhea's livingroom](https://cloud.rhea-ayase.eu/s/O2i5kF1nZhoyiEZ), connected to symmetric 301/300 mbps line. It's pink.
+
+{: .centered .striped .highlight}
+||Component|Model||
+|---:|---:|:---|:---|
+||Motherboard|Supermicro X9DRi-LN4F+ Dual LGA2011 C602||
+|2x|CPU|Intel Xeon E5-2690 @3.8GHz, 8 Cores|(32 threads)|
+|16x|Memory|Supermicro 4GB DDR3-1600 ECC|(64GB)|
+|1x|Storage|OCZ Vertex 450 128GB SSD||
+|1x|Storage|Seagate Barracuda 3TB 7200RPM||
+|4x|Storage|Hitachi Deskstar NAS 4TB 7200RPM|(raid5)|
+|2x|CPU Cooler|Corsair H80i v2||
+|4x|Fan|Noctua NF-F12||
+|3x|Fan|Noctua NF-A14||
+||Case|be quiet! Dark Base Pro||
+||Power Supply|Corsair RM750x Gold||
+
+&nbsp;
+
+{% include image.html
+  img="assets/keyra-01.jpg"
+  title="Keyra in its physical form"
+  caption="Keyra in its physical form"
+  url="http://rhea-ayase.eu/assets/keyra-01.jpg"
+  align="center"
+  float="false"
+  border="1px"
+%}
 
