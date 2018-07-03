@@ -48,8 +48,8 @@ comments: true
 ...for all the jumps, drops, roots and rocks!
 
 * Carbon frame (alloy rear triangle, alloy 780mm bars) - Downhill C5 rated.
-* Rear shock: Fox FLOAT X2 
 * Fork: Fox FLOAT 36 Performance Elite
+* Rear shock: Fox FLOAT EVOL X2 Performance
 * Drivetrain: SRAM GX Eagle 1x12 (34t front, 10-50t rear)
 * Breaks: SRAM CODE R 200/180mm
 * Seat Post: RockShox Reverb stealth B1 170mm
@@ -64,8 +64,8 @@ comments: true
 ...for light XC
 
 * Carbon frame (alloy rear triangle, alloy 720mm bars)
-* Rear shock: Fox Float Performance (autosag, 3-position adjust, 120mm travel)
 * Fork: RockShox Revelation RC3 (5-position adjust, 120mm travel)
+* Rear shock: Fox Float Performance (autosag, 3-position adjust, 120mm travel)
 * Drivetrain: SRAM GX Eagle 1x12 (32t front, 10-50t rear)
 * Breaks: Shimano M506 200/180mm
 * Seat Post: Specialized Command Post
