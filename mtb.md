@@ -58,6 +58,7 @@ comments: true
 * Flat Pedals: HT AN-14A (custom colour matching the frame) with purple pins
 * Rims: DT Swiss EX 1501 SPLINE 27.5"
 * Tyres: MAXXIS Minion DHR II 2.4" - Tubeless (Continental sealant)
+* Weight on the trail: 15.1 kg
 
 
 #### Specialized Camber Comp Carbon (2017)
@@ -74,6 +75,7 @@ comments: true
 * Flat Pedals: XLC PD-M12
 * Rims: Roval Traverse 29"
 * Tyres: Specialized Purgatory & Ground Control 2.3" - Tubeless (Continental sealant)
+* Weight on the trail: 14.0 kg
 
 [Bike Check video](https://www.youtube.com/watch?v=hZyzFQP1Rb8)
 
