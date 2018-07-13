@@ -2,6 +2,7 @@
 layout: page
 title:  "MTB"
 permalink: /mtb/
+include-priority: true
 comments: true
 ---
 {% include image.html
@@ -39,6 +40,16 @@ comments: true
   title="Rhea & SpyTec on a XC vacation."
   caption="Rhea & SpyTec on a XC vacation."
   url="http://rhea-ayase.eu/assets/2017-07-29-Jednovice.jpg"
+  align="right"
+  float="true"
+  border="1px"
+%}
+
+{% include image.html
+  img="assets/mtb/watch.jpg"
+  title="Rhea's Samsung Gear watch"
+  caption="Rhea's Samsung Gear watch with custom watch face"
+  url="http://rhea-ayase.eu/assets/mtb/watch.jpg"
   align="right"
   float="true"
   border="1px"
@@ -94,6 +105,7 @@ comments: true
 
 #### Digital
 
+* [Samsung Gear S3 classic](https://www.gsmarena.com/samsung_gear_s3_classic-8309.php) with [Rhea's MTB watch face]()
 * [GoPro Hero Session](https://shop.gopro.com/EMEA/cameras/hero-session/CHDHS-102-master.html)
 * [Evo SS gimbal](https://www.evogimbals.com/products/evo-ss-3-axis-wearable-gimbal-for-gopro-hero-session-hero5-cameras)
 * [Samsung NX200](http://www.samsung.com/hk_en/cameras/nx200/) (+tripod)
