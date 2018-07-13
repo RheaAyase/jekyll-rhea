@@ -19,6 +19,12 @@
         <span>/</span>
         <a href="{{ author.about-url }}">about</a>
       </li>
+        {% for page in site.pages %} {% if page.title and page.include-priority %}
+      <li class="nav-item">
+        <span>/</span>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+      </li>
+      {% endif %} {% endfor %}
         {% for page in site.pages %} {% if page.title and page.include %}
       <li class="nav-item">
         <span>/</span>
