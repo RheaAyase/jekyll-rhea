@@ -6,20 +6,30 @@ include-priority: true
 comments: true
 ---
 {% include image.html
-  img="assets/mtb/Torque-02-2-small.jpg"
+  img="assets/mtb/Torque-03-2-small.jpg"
   title="Rhea's Mountain Bike"
   caption="Rhea's Canyon Torque"
-  url="http://rhea-ayase.eu/assets/mtb/Torque-02-2.jpg"
+  url="http://rhea-ayase.eu/assets/mtb/Torque-03-2.jpg"
   align="right"
   float="true"
   border="1px"
 %}
 
 {% include image.html
-  img="assets/mtb/Torque-Eagle-small.jpg"
+  img="assets/mtb/Torque-03-detail-1-small.jpg"
+  title="Rhea's Mountain Bike"
+  caption="Rhea's Canyon Torque"
+  url="http://rhea-ayase.eu/assets/mtb/Torque-03-detail-1.jpg"
+  align="right"
+  float="true"
+  border="1px"
+%}
+
+{% include image.html
+  img="assets/mtb/Torque-03-detail-4-small.jpg"
   title="SRAM GX Eagle drivetrain"
   caption="SRAM GX Eagle drivetrain"
-  url="http://rhea-ayase.eu/assets/mtb/Torque-Eagle.jpg"
+  url="http://rhea-ayase.eu/assets/mtb/Torque-03-detail-4.jpg"
   align="right"
   float="true"
   border="1px"
@@ -30,16 +40,6 @@ comments: true
   title="Rhea's Mountain Bike"
   caption="Rhea's Specialized Camber (wet conditions, with fenders)"
   url="http://rhea-ayase.eu/assets/mtb/Camber-04.jpg"
-  align="right"
-  float="true"
-  border="1px"
-%}
-
-{% include image.html
-  img="assets/2017-07-29-Jednovice-small.jpg"
-  title="Rhea & SpyTec on a XC vacation."
-  caption="Rhea & SpyTec on a XC vacation."
-  url="http://rhea-ayase.eu/assets/2017-07-29-Jednovice.jpg"
   align="right"
   float="true"
   border="1px"
@@ -70,6 +70,8 @@ comments: true
 * Rims: DT Swiss EX 1501 SPLINE 27.5"
 * Tyres: MAXXIS Minion DHR II 2.4" - Tubeless (Continental sealant)
 * Weight on the trail: 15.1 kg
+
+[Bike & Gear ~ Check video](https://www.youtube.com/watch?v=nlfiqvXCvlc)
 
 
 #### Specialized Camber Comp Carbon (2017)
