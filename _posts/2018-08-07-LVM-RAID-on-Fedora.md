@@ -50,34 +50,51 @@ We can either use whole hard drives, or create partitions and then use those. We
 #### Create Physical Volumes
 
 Now that we have the hard drives ready, we can create physical volumes (PV) on all of them. We can do that with a single command:
-
-`$ sudo pvcreate /dev/sd[cdef]` - where the `[cdef]` is a list of last letters of our devices.
+```
+$ sudo pvcreate /dev/sd[cdef]
+```
+The `[cdef]` is a list of last letters of our devices.
 
 #### Create a Volume Group
 
-The next step is to group these physical volumes into a single volume group. Here we can peek into the manual page `man vgcreate` to take a look at available parameters. The most notable one is the `--physicalextentsize` or `-s` where the description here does not tell us a whole lot, but we can find out everything about it in [the documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/logical_volume_manager_administration/lv_overview). To save some time, the important info is that extent is kind of a unit that directly links a physical volume, with a logical volume. And they can have size. It is good practice to avoid having millions of extents, so we should increase this size depending on the size of our array. In our example we have four 4TB HDDs, so let's use 64MiB for extent size: `-s 64m`
-
-`$ sudo vgcreate -s 64m raid5vg /dev/sd[cdef]` - where `raid5vg` is the name of our new volume group. And we can use the same sneaky regular expression we used for physical volumes to not have to specify every single one of them.
+The next step is to group these physical volumes into a single volume group. Here we can peek into the manual page `man vgcreate` to take a look at available parameters. The most notable one is the `--physicalextentsize` or `-s` where the description here does not tell us a whole lot, but we can find out everything about it in [the documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/logical_volume_manager_administration/lv_overview). To save some time, the important info is that extent is kind of a unit that directly links a physical volume, with a logical volume. And they can have size. It is good practice to avoid having millions of extents, so we should increase this size depending on the size of our array. In our example we have four 4TB HDDs, so let's use 64MiB for extent size: `-s 64m`. The `raid5vg` is the name of our new volume group. And we can use the same sneaky regular expression we used for physical volumes to not have to specify every single one of them.
+```
+$ sudo vgcreate -s 64m raid5vg /dev/sd[cdef]
+```
 
 #### Create the Logical Volume
 
-Let's take a look at the man page again! `man lvcreate` We can see some obvious parameters that we will need, such as `--name` or `--type`. These will be the name of our logical volume, and the type. The type should be `raid5`, right? Next parameter of interest is `--size` however we will not use it, we will use `--extents` because the size parameter is just an alternative way to specify extents, which gives us more options. We want to consume our whole volume group, so we can use `100%VG`. The last interesting parameter is `--stripes` which specifies how many of those physical volumes do we want to use. Since we have raid5, it assumes one parity drive already, so in order to use all four drives, we need four minus one for parity: `3`
-
-`$ sudo lvcreate --type raid5 --name raid5lv --extents 100%VG --stripes 3 raid5vg` - The last argument is the name of our volume group `raid5vg`
+Let's take a look at the man page again! `man lvcreate` We can see some obvious parameters that we will need, such as `--name` or `--type`. These will be the name of our logical volume, and the type. The type should be `raid5`, right? Next parameter of interest is `--size` however we will not use it, we will use `--extents` because the size parameter is just an alternative way to specify extents, which gives us more options. We want to consume our whole volume group, so we can use `100%VG`. The last interesting parameter is `--stripes` which specifies how many of those physical volumes do we want to use. Since we have raid5, it assumes one parity drive already, so in order to use all four drives, we need four minus one for parity: `3`. The last argument is the name of our volume group `raid5vg`
+```
+$ sudo lvcreate --type raid5 --name raid5lv --extents 100%VG --stripes 3 raid5vg
+```
 
 #### Creating a filesystem and mounting it
 
 We're almost done, all that's left is to create a filesystem of our choice. Let's use ext4 and mount it at /mnt/raid
+```
+$ sudo mkfs.ext4 /dev/raid5vg/raid5lv
+```
+And that's the path to our new logical volume, simple, isn't it?
 
-`$ sudo mkfs.ext4 /dev/raid5vg/raid5lv` - This is the path to our new logical volume, simple, isn't it?
+Create the directory where we will mount our new array.
+```
+$ sudo mkdir /mnt/raid
+```
 
-`$ sudo mkdir /mnt/raid` - Create the directory where we will mount our new array.
+In order to permanently mount it, we need to add a line into the `fstab`. Also, `vim` is awesome.
+```
+$ sudo vim /etc/fstab
+```
+Add the following line, where we can use mapper as a path to the device, then the folder where to mount it in the second column, filesystem type in the third, and then default mount options. Nothing fancy.
+```
+/dev/mapper/raid5vg-raid5lv   /mnt/raid   ext4   defaults   0 0
+```
 
-`$ sudo vim /etc/fstab` - In order to permanently mount it, we need to add a line into the `fstab`. Also, `vim` is awesome.
-<br />&nbsp;&nbsp;`/dev/mapper/raid5vg-raid5lv   /mnt/raid   ext4   defaults   0 0`
-<br />&nbsp;&nbsp;We can use mapper as a path to the device, then the folder where to mount it in the second column, filesystem type in the third, and then default mount options. Nothing fancy.
-
-`$sudo mount -a` - This will mount everything in `/etc/fstab` - an important test before rebooting computer!
+This will mount everything in `/etc/fstab` - an important test before rebooting computer!
+```
+$ sudo mount -a
+```
 
 #### Done!
 
@@ -87,7 +104,11 @@ These are useful:
 * `pvs`, `vgs` and `lvs` throws out a table with info, refer to the manual page on how to specify columns, etc...
 * We can use `lvs` to query whether our array is healthy, for example:
 
-`lvs raid5lv -o 'lv_name,copy_percent,vg_missing_pv_count'`
+```
+$ sudo lvs raid5lv -o 'lv_name,copy_percent,vg_missing_pv_count'
+  LV     Cpy%Sync  #PV Missing
+  raid5  100.00              0
+```
 
 What next? Next we could set up monitoring, automated emails in case of failed drive. But that's a whole another article for another time. I just use a cron script that checks for failed drives and leaves a message for me. To get something useful for such script, we can simply add an `awk` to the above example:
 
