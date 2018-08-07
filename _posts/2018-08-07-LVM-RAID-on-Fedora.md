@@ -24,7 +24,7 @@ LVM has three main components:
 
 We will be creating RAID5 array, but these steps are almost exactly the same for any other RAID level.
 
-Although we could create RAID5 array with any number of hard drives (greater than 2) let's assume that we have four for the sake of simplicity, since 4 devices define [standard RAID5](https://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_5).
+We could create RAID5 array with any number of hard drives (greater than 2.) Let's assume that we have four for the sake of simplicity, since it's the most common [example of RAID5](https://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_5).
 
 #### Preparing the devices
 
