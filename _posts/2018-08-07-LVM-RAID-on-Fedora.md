@@ -112,7 +112,9 @@ $ sudo lvs raid5lv -o 'lv_name,copy_percent,vg_missing_pv_count'
 
 What next? Next we could set up monitoring, automated emails in case of failed drive. But that's a whole another article for another time. I just use a cron script that checks for failed drives and leaves a message for me. To get something useful for such script, we can simply add an `awk` to the above example:
 
-`lvs raid5lv -o 'lv_name,copy_percent,vg_missing_pv_count' | grep raid5lv | awk '{print $3}'`
+```
+lvs raid5lv -o 'lv_name,copy_percent,vg_missing_pv_count' | grep raid5lv | awk '{print $3}'
+```
 
 Thanks for reading! Feel free to shoot me a message on IRC (Freenode) `Rhea` or on [Discord](https://discord.gg/fedora) `Rhea#1234` should you find yourself in need of more answers **:]**
 
