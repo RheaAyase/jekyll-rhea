@@ -55,6 +55,8 @@ comments: true
   border="1px"
 %}
 
+**[YouTube Channel](https://youtube.com/RheaAyase)**
+
 #### Canyon Torque CF 9.0 (2018)
 ...for all the jumps, drops, roots and rocks!
 
