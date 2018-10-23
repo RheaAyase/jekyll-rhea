@@ -5,7 +5,7 @@ comments: false
 ---
 
 Keyra is a [Fedora](https://fedoraproject.org) server providing hosting services to various open source projects.
-It lives from [patreon](https://www.patreon.com/Valkyrja) contributions.
+It lives from [patreon](https://www.patreon.com/ValkyrjaProject) contributions.
 
 Keyra is new, water cooled dual-xeon Fedora server in [Rhea's livingroom](https://cloud.rhea-ayase.eu/s/O2i5kF1nZhoyiEZ), connected to symmetric 300/300 mbps line with 100mbps failover managed by [apu2c4](https://www.pcengines.ch/apu2c4.htm) with RHEL. It's pink.
 
