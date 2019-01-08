@@ -20,10 +20,12 @@ You can find status of the server on our [esm page](http://status.persephone.clo
 |1x|Storage|OCZ Vertex 450 128GB SSD||
 |1x|Storage|Seagate Barracuda 3TB 7200RPM||
 |4x|Storage|Hitachi Deskstar NAS 4TB 7200RPM|(raid5)|
-|2x|CPU Cooler|Corsair H80i v2||
-|4x|Fan|Noctua NF-F12||
-|3x|Fan|Noctua NF-A14||
-||Case|be quiet! Dark Base Pro||
+|2x|CPU Cooler|Noctua NH-U12DX i4||
+|2x|CPU Fan|Noctua NF-F12||
+|2x|CPU Fan|Noctua NF-A12x15||
+|3x|Exhaust Fan|Noctua NF-A12x25||
+|2x|Intake Fan|Noctua NF-A14||
+||Case|be quiet! Dark Base Pro 900||
 ||Power Supply|Corsair RM750x Gold||
 
 &nbsp;
