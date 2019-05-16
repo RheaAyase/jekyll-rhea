@@ -11,6 +11,7 @@ comments: false
   url="http://rhea-ayase.eu/img/tuxie1.jpg"
   align="center"
   float="false"
+  border="1px"
 %}
 
  &nbsp; The name is Radka, but I'm known as Rhea Ayase on the interwebz.
@@ -26,6 +27,7 @@ comments: false
   url="http://rhea-ayase.eu/assets/console-bunneh.png"
   align="right"
   float="true"
+  border="1px"
 %}
 
  &nbsp; Oh and I'm running [Fedora](https://fedoraproject.org/wiki/User:Rhea) on my RedHat issue Lenovo notebook. <3
@@ -43,6 +45,7 @@ comments: false
   url="http://rhea-ayase.eu/assets/Kirei_02-large.jpg"
   align="left"
   float="true"
+  border="1px"
 %}
 
  &nbsp; I used to go out to exercise a little bit of `iaido`, somewhere in the meadows, edge of a forest... It's Japanese martial art of drawing the sword. The goal is to be ready at all times, for example Samurai is always ready to draw the sword from any position, sitting or standing. For me it was a specific kind of relax outside.
@@ -60,5 +63,6 @@ comments: false
   url="http://rhea-ayase.eu/img/selfie-bike-devil.jpg"
   align="center"
   float="false"
+  border="1px"
 %}
 
