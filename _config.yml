@@ -6,7 +6,7 @@
 title: Rhea Ayase
 email: rhea@ayase.eu
 description: Personal website and blog of Radka Janek, Community Manager and .NET Core Quality Engineering Lead at Red Hat. Shredding the trails on her mountain bike and inspiring the desolate whitespace of Linux world with the delicate C# letters of simplified artificial intelligence.
-url: http://rhea-ayase.eu
+url: https://rhea.dev
 
 
 #
@@ -40,7 +40,7 @@ owner:
   bio: "Former&nbsp;game&nbsp;programmer with passionate&nbsp;opinions&nbsp;about&nbsp;the&nbsp;industry, Community&nbsp;Manager&nbsp;and&nbsp;active&nbsp;contributor to&nbsp;gaming&nbsp;and&nbsp;open&nbsp;source&nbsp;communities. Currently&nbsp;wearing&nbsp;her&nbsp;RedHat, playing&nbsp;with&nbsp;the&nbsp;delicate&nbsp;C#&nbsp;letters&nbsp;in&nbsp;Linux."
   email: rhea@ayase.eu
   about-url: "https://rhea.dev/about"
-  #about-url: "http://rhea-ayase.eu/articles/1990-08/Who-is-Rhea"
+  #about-url: "https://rhea.dev/articles/1990-08/Who-is-Rhea"
   disqus-shortname: rheaayase
   discord: https://discord.gg/fedora
   twitter: RheaAyase
