@@ -7,7 +7,7 @@ comments: false
 Persephone is a community project providing cloud/hosting services to various open source projects.
 It lives from [patreon](https://www.patreon.com/ValkyrjaProject) contributions.
 
-Keyra is a dual-xeon Fedora server in [Rhea's livingroom](https://cloud.rhea-ayase.eu/s/O2i5kF1nZhoyiEZ), connected to symmetric 300/300 mbps line with 100mbps failover managed by [apu2c4](https://www.pcengines.ch/apu2c4.htm) with RHEL8. It's pink.
+Keyra is a dual-xeon Fedora server in [Rhea's livingroom](https://cloud.rhea-ayase.eu/s/O2i5kF1nZhoyiEZ), connected to symmetric 300/300 mbps line with 100mbps failover managed by [apu2c4](https://www.pcengines.ch/apu2c4.htm) with pfSense. It's pink.
 
 You can find status of the server on our [esm page](http://status.persephone.cloud).
 
