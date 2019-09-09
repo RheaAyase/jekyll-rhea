@@ -122,7 +122,7 @@ comments: true
 
 * Shoes: [Five Ten Freerider MTB women](http://www.fiveten.com/us/freerider-womens-black-berry)
 * Backpack: [evoc FR Enduro women](https://www.evocsports.com/products/backpacks/fr-enduro-women-16l)
-* Glasses: [uvex sportstyle 202](https://www.uvex-sports.com/en/eyewear/sports-eyewear/uvex-sportstyle-202-small-v-grey-mat/) (night and sun alike)
+* Glasses: [uvex sportstyle 803 cv vm](https://www.uvex-sports.com/en/eyewear/sports-eyewear/uvex-sportstyle-803-cv-vm-black-mat/) (night and sun alike)
 * Helmet: [Bell Super 3R MIPS 2018](https://www.bellhelmets.com/en_eu/super-3r-mips-equipped-1) (Black/Cherry to match the Torque!)
 * Elbow guards: [Fox Launch pro D3O](https://www.foxracing.com/launch-pro-d3o-elbow-guards/18495.html)
 * Knee+shin guards: Fox Launch pro D3O ([This one](https://www.foxracing.com/launch-pro-d3o-knee-guards/18493.html), but with long shin protector.)
@@ -130,9 +130,8 @@ comments: true
 #### Digital
 
 * [Samsung Note 9](https://www.gsmarena.com/samsung_galaxy_note9-9163.php)
-* [Samsung Gear S3 classic](https://www.gsmarena.com/samsung_gear_s3_classic-8309.php) with [Rhea's MTB watch face]()
-* [GoPro Hero Session](https://shop.gopro.com/EMEA/cameras/hero-session/CHDHS-102-master.html)
-* [Evo SS gimbal](https://www.evogimbals.com/products/evo-ss-3-axis-wearable-gimbal-for-gopro-hero-session-hero5-cameras)
+* [Samsung Gear S3 classic](https://www.gsmarena.com/samsung_gear_s3_classic-8309.php)
+* [GoPro Hero 7 Black](https://gopro.com/en/cz/shop/cameras/hero7-black/CHDHX-701-master.html)
 * [Samsung NX200](http://www.samsung.com/hk_en/cameras/nx200/) (+tripod)
 
 {% include spacer.html %}
