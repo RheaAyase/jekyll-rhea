@@ -17,7 +17,7 @@ You can find status of the server on our [esm page](http://status.persephone.clo
 ||Motherboard|Supermicro X9DRi-LN4F+ Dual LGA2011 C602||
 |2x|CPU|Intel Xeon E5-2690 @3.8GHz, 8 Cores|(32 threads)|
 |16x|Memory|Supermicro 4GB DDR3-1600 ECC|(64GB)|
-|1x|Storage|OCZ Vertex 450 128GB SSD||
+|2x|Storage|Samsung 830 Pro 128GB SSD|(raid1)|
 |1x|Storage|Seagate Barracuda 3TB 7200RPM||
 |4x|Storage|Hitachi Deskstar NAS 4TB 7200RPM|(raid5)|
 |2x|CPU Cooler|Noctua NH-U12DX i4||
