@@ -7,23 +7,22 @@ comments: false
 Persephone is a community project providing cloud/hosting services to various open source projects.
 It lives from [patreon](https://www.patreon.com/ValkyrjaProject) contributions.
 
-Keyra is a dual-xeon Fedora server in [Rhea's livingroom](https://cloud.rhea-ayase.eu/s/O2i5kF1nZhoyiEZ), connected to symmetric 300/300 mbps line with 100mbps failover managed by [apu2c4](https://www.pcengines.ch/apu2c4.htm) with pfSense. It's pink.
+Keyra is a Fedora Linux server in [Rhea's livingroom](https://cloud.rhea.dev/s/ZxTEzgH8YF2YeS4), connected to symmetric 300/300 mbps line with 100mbps failover managed by [apu2c4](https://www.pcengines.ch/apu2c4.htm) with pfSense. It's pink.
 
 You can find status of the server on our [esm page](http://status.persephone.cloud).
 
 {: .centered .striped .highlight}
 ||Component|Model||
 |---:|---:|:---|:---|
-||Motherboard|Supermicro X9DRi-LN4F+ Dual LGA2011 C602||
-|2x|CPU|Intel Xeon E5-2690 @3.8GHz, 8 Cores|(32 threads)|
-|16x|Memory|Supermicro 4GB DDR3-1600 ECC|(64GB)|
+||Mainboard|Asus PRIME x570-Pro||
+||CPU|AMD Ryzen 3950X @4.6GHz 16cores|(32 threads)|
+|4x|Memory|Corsair 32GB DDR4-3000 CL16|(128GB)|
 |2x|Storage|Samsung 830 Pro 128GB SSD|(raid1)|
 |1x|Storage|Seagate Barracuda 3TB 7200RPM||
 |4x|Storage|Hitachi Deskstar NAS 4TB 7200RPM|(raid5)|
-|2x|CPU Cooler|Noctua NH-U12DX i4||
-|2x|CPU Fan|Noctua NF-F12||
-|2x|CPU Fan|Noctua NF-A12x15||
-|3x|Exhaust Fan|Noctua NF-A12x25||
+||CPU Cooler|Noctua NH-D15 SE-AM4||
+|2x|CPU Fan|Noctua NF-A15||
+|4x|Exhaust Fan|Noctua NF-A12x25||
 |2x|Intake Fan|Noctua NF-A14||
 ||Case|be quiet! Dark Base Pro 900||
 ||Power Supply|Corsair RM750x Gold||
