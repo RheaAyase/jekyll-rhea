@@ -6,7 +6,7 @@ categories: [code]
 comments: true
 ---
 
-Previously in what's becoming a Ryzen min-maxing series, we learned about [memory limitations](https://rhea.dev/articles/2020-01/AMD-Ryzen-as-a-server). This time around I'd like to introduce you to three different things that you can do with the clock and voltage. Tweaking PBO for gaming/workstation use, undervolting for server workloads, or overclocking to (not) destroy your processor.
+Previously in what's becoming a Ryzen (3rd gen) min-maxing series, we learned about [memory limitations](https://rhea.dev/articles/2020-01/AMD-Ryzen-as-a-server). This time around I'd like to introduce you to three different things that you can do with the clock and voltage. Tweaking PBO for gaming/workstation use, undervolting for server workloads, or overclocking to (not) destroy your processor.
 
 No matter what you read here, go and enable XMP for your memory :D **BAM** 10% free performance right there.
 
