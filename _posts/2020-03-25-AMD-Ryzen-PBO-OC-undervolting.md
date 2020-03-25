@@ -84,7 +84,7 @@ To find out what's the limit above which you should never go, keep PBO enabled, 
 
 Now fire up prime95 with "small fft" and all of your threads. Next, assuming you're using _winblows gui_, in the bottom of the hwinfo sensors window you can click a little "reset min/max" button.
 
-Let it cook for a few minutes. Your maximum voltage is called `CPU Core Voltage (SVI2 TFN)` - exceeding it even by a small amount will cause degradation over several months. Surprisingly AMD engineers with PhDs actually know what they're doing and the chip is already running at its maximum possible performance out of the box. This is why I said that it's not exactly overclocking, we don't want to break the chip.
+Let it cook for a few minutes. Your maximum voltage is called `CPU Core Voltage (SVI2 TFN)` (the max column) - exceeding it even by a small amount will cause degradation over several months. Surprisingly AMD engineers with PhDs actually know what they're doing and the chip is already running at its maximum possible performance out of the box. This is why I said that it's not exactly overclocking, we don't want to break the chip.
 
 #### OC Tweaking
 
