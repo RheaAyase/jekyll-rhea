@@ -53,3 +53,5 @@ As I mentioned earlier, T-topology might be better for 4 dimms, however, these a
 
 Ryzen 3000 is an amazing "revolution." Enjoy it. You can get some inspiration on my [pcpartpicker](https://pcpartpicker.com/user/RheaAyase/saved/#view=wBMjpg), or in [this Ryzen-hosted Nextcloud photo album](https://cloud.rhea.dev/s/qPjwdo9MCKFRR3S) ;)
 
+Next in the Ryzen series will be a little [guide to overclocking and undervolting](https://rhea.dev/articles/2020-03/AMD-Ryzen-PBO-OC-undervolting).
+
