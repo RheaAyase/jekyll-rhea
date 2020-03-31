@@ -5,7 +5,7 @@
 #
 title: Rhea Ayase
 email: rhea@ayase.eu
-description: Personal website and blog of Radka Janek, Community Manager and .NET Core Quality Engineering Lead at Red Hat. Shredding the trails on her mountain bike and inspiring the desolate whitespace of Linux world with the delicate C# letters of simplified artificial intelligence.
+description: Personal website and blog of Radka Gustavsson, Community Manager and .NET Core Quality Engineering Lead at Red Hat. Shredding the trails on her mountain bike and inspiring the desolate whitespace of Linux world with the delicate C# letters of simplified artificial intelligence.
 url: https://rhea.dev
 
 
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: "Radka Janeková"
+  name: "Radka Gustavsson"
   nickname: "Rhea Ayase"
   avatar: avatar.jpg
   job: "writes and teaches C# code on Linux." #".NET Software Engineer<br />Linux Programmer Specialist<br />Azure OnDemand Support"
