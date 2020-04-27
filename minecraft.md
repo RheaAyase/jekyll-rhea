@@ -4,68 +4,49 @@ title:  "Minecraft"
 comments: false
 ---
 
-Jefi's minecraft server is a bit of survival with some engineering in it. Beware the enchanted monsters!
+We host several Minecraft servers on the [Keyra server](https://rhea.dev/persephone). You can see the service status on [the status page](https://status.rhea.dev).
 
-##### Persephone project
+#### Common
 
-Curious about server status? [status.persephone.cloud](http://status.persephone.cloud) _(Scroll down to find Minecraft service status.)_
+Common stuffs to install for both relevant platforms!
 
-##### Download
+##### Linux
 
-<u>Windows</u>
+1. Install java: `$ dnf install java-1.8.0-openjdk`
+2. Install [MultiMC](https://multimc.org)
 
-1. Get [TwitchApp](https://app.twitch.tv)
-2. Go to the Minecraft tab and hit _Browse All Modpacks._
-3. Search for `jefi` and you will find our packs.
-4. Install, get whitelisted, enjoy.
+##### Windows
 
-<u>Linux</u>
+1. Install [RedHat's Open Source OpenJDK for Windows](https://developers.redhat.com/products/openjdk/download) (`jdk-8u222-x64 MSI`)
+2. Install [MultiMC](https://multimc.org)
 
-`//TODO next week...`
+#### Vanilla
 
-##### Whitelist
+Server port: `25565` (default)
 
-Our Minecraft server is whitelisted. This means that only allowed people can connect.
+Create new vanilla instance in MultiMC for version 1.15.2
 
-Get in touch with one of our `@Minecraft Moderators` in the [Jefi's Nest Discord](https://discord.gg/) in order to get whitelisted. _(Random people will not be able to join.)_
+#### RLCraft
 
-##### Mods
+[What is RLCraft?](https://www.youtube.com/watch?v=tbRAUWNf-2Y)
 
-Our Minecraft server is running the latest version of our own, relatively light [Jefi's modpack](https://minecraft.curseforge.com/projects/jefis-modpack?gameCategorySlug=modpacks&projectID=267588) using the [Forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.10.2.html) 1.10.2 - 12.18.3.2297
+RLCraft is very difficult modpack for Minecraft both in the way of gameplay, and hardware demand. You should really check it out beforehand or you will die. Many times.
 
-<u>Utils:</u>
-* Better BUilder's Wands
-* FTB Utilities
-* GraveStone
-* HWYLA
-* Inventory Tweaks
-* Journey Map
-* JEI
+##### Instructions
 
-<u>World and Monsters:</u>
-* Apple Trees
-* AtomicStryker's Infernal Mobs
-* Monsters and Dungeons
-* Simply Juices
-* Wolf Armor and Storage
+Server port: `25566`
 
-<u>Tech:</u>
-* Big Doors
-* Cooking for Blockheads
-* Draconic Evolution
-* Ex Nihilo Adscensio
-* EZStorage 2
-* Iron Backpacks
-* Open Glider
-* OpenBlocks Elevator
-* Simply Jetpacks 2
-* Tinkers Construct
+1. [Download a zip file of our instance.](https://valkyrja.app/files/Valhalla-RLCraft-1.12.2-v2.7.1.zip)
+2. Create new instance in MultiMC by importing from the downloaded zip file.
 
-<u>Engineering:</u>
-* Applied Energistics 2
-* Ender IO
-* Ender Storage
-* Environmental Tech
-* Extreme Reactors
-* Immersive Engineering
+#### SevTech: Ages
+
+SevTech: Ages is similar to RLCraft in the idea of progression and more realism than vanilla, it's just a bit less hardcore. **=)**
+
+##### Instructions
+
+Server port: `25567`
+
+1. [Download a zip file of our instance.](https://valkyrja.app/files/Valhalla-SevTech-1.12.2-v3.1.2-1.zip)
+2. Create new instance in MultiMC by importing from the downloaded zip file.
 
