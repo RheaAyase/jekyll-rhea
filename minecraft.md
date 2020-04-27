@@ -24,7 +24,7 @@ Common stuffs to install for both relevant platforms!
 
 Server port: `25565` (default)
 
-Create new vanilla instance in MultiMC for version 1.15.2
+Create new vanilla instance in MultiMC for version `1.15.2`
 
 ### RLCraft
 
