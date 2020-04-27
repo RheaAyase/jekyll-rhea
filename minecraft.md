@@ -10,12 +10,12 @@ We host several Minecraft servers on the [Keyra server](https://rhea.dev/perseph
 
 Common stuffs to install for both relevant platforms!
 
-##### Linux
+###### Linux
 
 1. Install java: `$ dnf install java-1.8.0-openjdk`
 2. Install [MultiMC](https://multimc.org)
 
-##### Windows
+###### Windows
 
 1. Install [RedHat's Open Source OpenJDK for Windows](https://developers.redhat.com/products/openjdk/download) (`jdk-8u222-x64 MSI`)
 2. Install [MultiMC](https://multimc.org)
@@ -32,7 +32,7 @@ Create new vanilla instance in MultiMC for version 1.15.2
 
 RLCraft is very difficult modpack for Minecraft both in the way of gameplay, and hardware demand. You should really check it out beforehand or you will die. Many times.
 
-##### Instructions
+###### Instructions
 
 Server port: `25566`
 
@@ -43,7 +43,7 @@ Server port: `25566`
 
 SevTech: Ages is similar to RLCraft in the idea of progression and more realism than vanilla, it's just a bit less hardcore. **=)**
 
-##### Instructions
+###### Instructions
 
 Server port: `25567`
 
