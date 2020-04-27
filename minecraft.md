@@ -17,7 +17,7 @@ Common stuffs to install for both relevant platforms!
 
 ##### Windows
 
-1. Install [RedHat's Open Source OpenJDK for Windows](https://developers.redhat.com/products/openjdk/download) (`jdk-8u222-x64 MSI`)
+1. Install [RedHat's Open Source OpenJDK for Windows](https://developers.redhat.com/products/openjdk/download) (`jdk-8u***-x64 MSI`)
 2. Install [MultiMC](https://multimc.org)
 
 ### Vanilla
