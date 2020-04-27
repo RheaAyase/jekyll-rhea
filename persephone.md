@@ -17,13 +17,14 @@ You can find status of the server on our [esm page](http://status.persephone.clo
 ||Mainboard|Asus PRIME x570-Pro||
 ||CPU|AMD Ryzen 3950X @4.6GHz 16cores|(32 threads)|
 |4x|Memory|Corsair 32GB DDR4-3000 CL16|(128GB)|
-|2x|Storage|Samsung 830 Pro 128GB SSD|(raid1)|
-|1x|Storage|Seagate Barracuda 3TB 7200RPM||
-|4x|Storage|Hitachi Deskstar NAS 4TB 7200RPM|(raid5)|
+|2x|Storage|Samsung 830 Pro 128GB SATA SSD|(raid1)|
+|3x|Storage|Corsair MP510 480GB NVMe SSD|(raid5)|
+|4x|Storage|Hitachi Deskstar NAS 4TB 7200RPM HDD|(raid5)|
+|1x|Storage|Seagate Barracuda 3TB 7200RPM HDD||
 ||CPU Cooler|Noctua NH-D15 SE-AM4||
 |2x|CPU Fan|Noctua NF-A15||
-|4x|Exhaust Fan|Noctua NF-A12x25||
-|2x|Intake Fan|Noctua NF-A14||
+|3x|Exhaust Fan|Noctua NF-A12x25||
+|3x|Intake Fan|Noctua NF-A14||
 ||Case|be quiet! Dark Base Pro 900||
 ||Power Supply|Corsair RM750x Gold||
 
