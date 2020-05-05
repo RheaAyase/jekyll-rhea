@@ -10,6 +10,8 @@ We host several Minecraft servers on the [Keyra server](https://rhea.dev/perseph
 
 Common stuffs to install for both relevant platforms!
 
+Host: `minecraft.valkyrja.app`
+
 ##### Linux
 
 1. Install java: `$ dnf install java-1.8.0-openjdk`
