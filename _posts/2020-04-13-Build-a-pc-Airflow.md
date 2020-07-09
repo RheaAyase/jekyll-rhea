@@ -69,6 +69,8 @@ Here is what that looks like, I will let you be the judge of my OCD (I measured 
 | Positive Pressure | 1x Noctua S12A ULN+LNA ||
 | ..and more.. | [pcpartpicker.com](https://pcpartpicker.com/user/RheaAyase/saved/#view=NsGHBm) ||
 
+&nbsp;
+
 #### Resources
 
 When shopping, look up reviews. You don't have to use Noctua, but look up reviews, and use a bit of common sense **=)**
