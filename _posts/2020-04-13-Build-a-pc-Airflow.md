@@ -59,7 +59,7 @@ Here is what that looks like, I will let you be the judge of my OCD (I measured 
 | Part | Component | Notes |
 | Mainboard | Asus Prime X570-Pro ||
 | CPU | AMD Ryzen 3900x | [blog](https://rhea.dev/articles/2020-03/AMD-Ryzen-PBO-OC-undervolting) |
-| RAM | 2x16GB G.Skill Trident Z Neo 3600cl16 | [blog](https://rhea.dev/articles/2020-01/AMD-Ryzen-as-a-server) |
+| RAM | 4x16GB G.Skill Trident Z Neo 3600cl16 | [blog](https://rhea.dev/articles/2020-01/AMD-Ryzen-as-a-server) |
 | Storage | Corsair MP 600 PCIe 4.0 ||
 | GPU | Radeon RX 5700XT - Sapphire Nitro+ Special Edition ||
 | GPU Vertical mount | cablemod.com ||
