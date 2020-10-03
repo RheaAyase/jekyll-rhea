@@ -45,6 +45,7 @@ comments: true
   align="right"
   float="true"
   border="1px"
+  width="48%"
 %}
 
 {% include image.html
@@ -55,6 +56,7 @@ comments: true
   align="left"
   float="true"
   border="1px"
+  width="48%"
 %}
 
 {% include spacer.html %}
