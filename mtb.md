@@ -20,17 +20,17 @@ comments: true
   border="1px"
 %}
 
-* Frame: Pässilä Bicycles - Rämäkkä - 63HA, 
+* Frame: Pässilä Bicycles - Rämäkkä - 63HA
 * Fork: Fox Factory 36 160mm GRIP2 44mm (910-20-905)
 * Brakes: Custom edition Hope E4 200/180mm
 * Seat Post: 9point8 Fall Line 175mm
 * Drivetrain: SRAM GX 1x11; Raceface 32t chainring, cranks & BB; Garbaruk 10-46t XD casette)
-* Bash guard: 77designz Taco | Stem: NS Bikes Quantum
+* Bash guard: 77designz Taco; Stem: NS Bikes Quantum
 * Bars: Nukeproof Horizon Riser 780mm, 31.8mm, backsweep 9°, upsweep 6°
 * Wheelset: 29" Hope Fortus 30 with purple Pro 4 hubs and purple Nukeproof valves
 * Tyres: 2.4" MAXXIS Minion DHR II 3C front, Ardent in the back with a Nukeproof tire noodle - Tubeless (Muc-Off sealant)
 * Saddle & Grips: Specialized Lithia & Contour (women's)
-* More purple: Flat Pedals FireEye Grill; Hope headset & bar plugs; custom top cap.
+* More purple: Flat Pedals FireEye Grill; Hope headset & bar plugs; custom top cap
 * Weight on the trail: 12.9 kg
 
 <!--[Bike Check video](https://www.youtube.com/watch?v=nlfiqvXCvlc)-->
