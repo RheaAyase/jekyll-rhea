@@ -7,7 +7,7 @@ comments: true
 ---
 **[YouTube Channel](https://youtube.com/RheaAyase)**
 
-#### Custom Hardtail (2019)
+#### Custom Titanium Hardtail (2020)
 ...for fun 😏
 
 {% include image.html
@@ -20,91 +20,70 @@ comments: true
   border="1px"
 %}
 
+* Frame: Pässilä Bicycles - Rämäkkä - 63HA, 
+* Fork: Fox Factory 36 160mm GRIP2 44mm (910-20-905)
+* Brakes: Custom edition Hope E4 200/180mm
+* Seat Post: 9point8 Fall Line 175mm
+* Drivetrain: SRAM GX 1x11; Raceface 32t chainring, cranks & BB; Garbaruk 10-46t XD casette)
+* Bash guard: 77designz Taco | Stem: NS Bikes Quantum
+* Bars: Nukeproof Horizon Riser 780mm, 31.8mm, backsweep 9°, upsweep 6°
+* Wheelset: 29" Hope Fortus 30 with purple Pro 4 hubs and purple Nukeproof valves
+* Tyres: 2.4" MAXXIS Minion DHR II 3C front, Ardent in the back with a Nukeproof tire noodle - Tubeless (Muc-Off sealant)
+* Saddle & Grips: Specialized Lithia & Contour (women's)
+* More purple: Flat Pedals FireEye Grill; Hope headset & bar plugs; custom top cap.
+* Weight on the trail: 12.9 kg
+
+<!--[Bike Check video](https://www.youtube.com/watch?v=nlfiqvXCvlc)-->
+
+{% include spacer.html %}
+
 {% include image.html
-  img="assets/mtb/Kaede-small.jpg"
-  title="Rhea's custom hardtail"
-  caption="Rhea's custom hardtail"
-  url="https://rhea.dev/assets/mtb/Kaede.jpg"
+  img="assets/mtb/ramakka-headtube-small.jpg"
+  title="Rhea's titanium hardtail"
+  caption="Rhea's titanium hardtail"
+  url="https://rhea.dev/assets/mtb/ramakka-headtube.jpg"
   align="right"
   float="true"
   border="1px"
 %}
 
-* Frame [NS Bikes Eccentric Alu Evo](http://www.ns-bikes.com/eccentric-alu-evo-29,121,pl.html)
-* Fork: RockShox Revelation RC 29" Boost 140mm 51mm offset
-* Drivetrain: SRAM NX 1x11 (32t front, Sunrace 11-46t rear)
-* Breaks: SRAM CODE R & Hope rotors 200/180mm
-* Seat Post: 9point8 Fall Line 175mm
-* Saddle: Specialized Lithia (women)
-* Grips: Specialized Contour (women)
-* Stem: NS Bikes Quantum
-* Bars: Nukeproof Horizon Riser 780mm, 31.8mm, backsweep 9°, upsweep 6°
-* Wheelset: 29" Hope pro 4 hubs, Praxis Al32mm rims, Sapim Race spokes & brass nipples, Muc-Off valves
-* Tyres: 2.4" MAXXIS Minion DHR II 3C front, Ar - Tubeless (Continental sealant)
-* Flat Pedals: FireEye Grill purple
-* Purple accents from Hope: headset spacers, seat clamp, hubs, brake rotors, bar plugs
-* Custom purple top cap
-* Weight on the trail: 12.5 kg
+{% include image.html
+  img="assets/mtb/ramakka-drivetrain-small.jpg"
+  title="Rhea's titanium hardtail"
+  caption="Rhea's titanium hardtail"
+  url="https://rhea.dev/assets/mtb/ramakka-drivetrain.jpg"
+  align="left"
+  float="true"
+  border="1px"
+%}
 
 {% include spacer.html %}
 
 #### Canyon Torque CF 9.0 (2018)
-...for all the jumps, drops, roots and rocks!
+...for all the jumps, drops, roots and rocks in all the bikeparks!
 
 {% include image.html
-  img="assets/mtb/Torque-03-2-small.jpg"
+  img="assets/mtb/Torque-07-small.jpg"
   title="Rhea's Mountain Bike"
   caption="Rhea's Canyon Torque"
-  url="https://rhea.dev/assets/mtb/Torque-03-2.jpg"
+  url="https://rhea.dev/assets/mtb/Torque-07.jpg"
   align="right"
   float="true"
   border="1px"
 %}
 
 * Carbon frame (alloy rear triangle, alloy 780mm bars) - Downhill C5 rated.
-* Fork: Fox FLOAT 36 Performance Elite
-* Rear shock: Fox FLOAT EVOL X2 Performance
+* Fork: Fox 36 Performance Elite 180mm FIT4
+* Rear shock: Fox FLOAT X2 Performance Elite
+* Seat Post: 9point8 Fall Line 175mm
 * Drivetrain: SRAM GX Eagle 1x12 (34t front, 10-50t rear)
-* Breaks: SRAM CODE R 200/180mm
-* Seat Post: RockShox Reverb stealth 150mm
+* Brakes: SRAM CODE R 200/180mm
 * Saddle: Specialized Lithia (women)
 * Grips: Specialized Contour (women)
 * Flat Pedals: HT AN-14A
-* Wheelset: 27.5" DT Swiss EX 1501 SPLINE, Muc-Off valves
-* Tyres: 2.4" MAXXIS Minion DHR II 3C (Grip front, Terra rear) - Tubeless (Continental sealant)
+* Wheelset: 27.5" DT Swiss EX 1501 SPLINE, Muc-Off valves, with Nukeproof tire noodle
+* Tyres: 2.4" MAXXIS Ardent 3C (Grip front, Terra rear) - Tubeless (Muc-Off sealant)
 * Weight on the trail: 15.1 kg
-
-[Bike & Gear ~ Check video](https://www.youtube.com/watch?v=nlfiqvXCvlc)
-
-{% include spacer.html %}
-
-#### Specialized Camber Comp Carbon (2017)
-...for light XC
-
-{% include image.html
-  img="assets/mtb/Camber-04-small.jpg"
-  title="Rhea's Mountain Bike"
-  caption="Rhea's Specialized Camber (wet conditions, with fenders)"
-  url="https://rhea.dev/assets/mtb/Camber-04.jpg"
-  align="right"
-  float="true"
-  border="1px"
-%}
-
-* Carbon frame (alloy rear triangle, alloy 720mm bars)
-* Fork: RockShox Revelation RC3 (5-position adjust, 120mm travel)
-* Rear shock: Fox Float Performance (autosag, 3-position adjust, 120mm travel)
-* Drivetrain: SRAM GX Eagle 1x12 (32t front, 10-50t rear)
-* Breaks: Shimano M506 200/180mm
-* Seat Post: Specialized Command Post
-* Saddle: Specialized Lithia (women)
-* Grips: Specialized Contour (women)
-* Flat Pedals: XLC PD-M12
-* Rims: Roval Traverse 29"
-* Tyres: Specialized Purgatory & Ground Control 2.3" - Tubeless (Continental sealant)
-* Weight on the trail: 14.0 kg
-
-[Bike Check video](https://www.youtube.com/watch?v=hZyzFQP1Rb8)
 
 {% include spacer.html %}
 
@@ -124,7 +103,6 @@ comments: true
 * Backpack: [evoc FR Enduro women](https://www.evocsports.com/products/backpacks/fr-enduro-women-16l)
 * Glasses: [uvex sportstyle 803 cv vm](https://www.uvex-sports.com/en/eyewear/sports-eyewear/uvex-sportstyle-803-cv-vm-black-mat/) (night and sun alike)
 * Helmet: [Bell Super 3R MIPS 2018](https://www.bellhelmets.com/en_eu/super-3r-mips-equipped-1) (Black/Cherry to match the Torque!)
-* Elbow guards: [Fox Launch pro D3O](https://www.foxracing.com/launch-pro-d3o-elbow-guards/18495.html)
 * Knee+shin guards: Fox Launch pro D3O ([This one](https://www.foxracing.com/launch-pro-d3o-knee-guards/18493.html), but with long shin protector.)
 
 #### Digital
