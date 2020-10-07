@@ -7,7 +7,7 @@ comments: true
 ---
 **[YouTube Channel](https://youtube.com/RheaAyase)**
 
-#### Custom Titanium Hardtail (2020)
+#### Titanium Dream Hardtail (2020)
 ...for fun 😏
 
 {% include image.html
