@@ -11,10 +11,10 @@ comments: true
 ...for fun 😏
 
 {% include image.html
-  img="assets/mtb/top-cap-small.jpg"
-  title="Custom top cap"
-  caption="Custom top cap"
-  url="https://rhea.dev/assets/mtb/top-cap.jpg"
+  img="assets/mtb/ramakka-01-small.jpg"
+  title="Rhea's titanium hardtail"
+  caption="Rhea's titanium hardtail"
+  url="https://rhea.dev/assets/mtb/ramakka-01.jpg"
   align="right"
   float="true"
   border="1px"
@@ -38,10 +38,10 @@ comments: true
 {% include spacer.html %}
 
 {% include image.html
-  img="assets/mtb/ramakka-01-small.jpg"
-  title="Rhea's titanium hardtail"
-  caption="Rhea's titanium hardtail"
-  url="https://rhea.dev/assets/mtb/ramakka-01.jpg"
+  img="assets/mtb/top-cap-small.jpg"
+  title="Custom top cap"
+  caption="Custom top cap"
+  url="https://rhea.dev/assets/mtb/top-cap.jpg"
   align="right"
   float="true"
   border="1px"
@@ -50,8 +50,8 @@ comments: true
 
 {% include image.html
   img="assets/mtb/ramakka-drivetrain-small.jpg"
-  title="Rhea's titanium hardtail"
-  caption="Rhea's titanium hardtail"
+  title="Rhea's titanium hardtail - drivetrain"
+  caption="Rhea's titanium hardtail - drivetrain"
   url="https://rhea.dev/assets/mtb/ramakka-drivetrain.jpg"
   align="left"
   float="true"
