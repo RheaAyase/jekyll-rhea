@@ -38,10 +38,10 @@ comments: true
 {% include spacer.html %}
 
 {% include image.html
-  img="assets/mtb/ramakka-headtube-small.jpg"
+  img="assets/mtb/ramakka-01-small.jpg"
   title="Rhea's titanium hardtail"
   caption="Rhea's titanium hardtail"
-  url="https://rhea.dev/assets/mtb/ramakka-headtube.jpg"
+  url="https://rhea.dev/assets/mtb/ramakka-01.jpg"
   align="right"
   float="true"
   border="1px"
