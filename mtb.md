@@ -33,7 +33,7 @@ comments: true
 * More purple: Flat Pedals FireEye Grill; Hope headset & bar plugs; custom top cap
 * Weight on the trail: 12.9 kg
 
-<!--[Bike Check video](https://www.youtube.com/watch?v=nlfiqvXCvlc)-->
+[Bike Check video](https://youtu.be/JeeY-C3vAHE)
 
 {% include spacer.html %}
 
@@ -101,11 +101,12 @@ comments: true
   border="1px"
 %}
 
-* Shoes: [Five Ten Freerider MTB women](http://www.fiveten.com/us/freerider-womens-black-berry)
-* Backpack: [evoc FR Enduro women](https://www.evocsports.com/products/backpacks/fr-enduro-women-16l)
-* Glasses: [uvex sportstyle 803 cv vm](https://www.uvex-sports.com/en/eyewear/sports-eyewear/uvex-sportstyle-803-cv-vm-black-mat/) (night and sun alike)
-* Helmet: [Bell Super 3R MIPS 2018](https://www.bellhelmets.com/en_eu/super-3r-mips-equipped-1) (Black/Cherry to match the Torque!)
-* Knee+shin guards: Fox Launch pro D3O ([This one](https://www.foxracing.com/launch-pro-d3o-knee-guards/18493.html), but with long shin protector.)
+* Shoes - casual/backup: Five Ten Freerider women's
+* Shoes - DH: Five Ten Impact Pro
+* Backpack: evoc FR Enduro women's
+* Goggles: Melon Optices Diablo
+* Helmet: Bell Super 3R MIPS 2018 (Black/Cherry)
+* Knee+shin guards: Fox Launch D3O (an older version with long shin protector)
 
 #### Digital
 
@@ -113,6 +114,7 @@ comments: true
 * [Samsung Gear S3 classic](https://www.gsmarena.com/samsung_gear_s3_classic-8309.php)
 * [GoPro Hero 7 Black](https://gopro.com/en/us/shop/cameras/hero7-black/CHDHX-701-master.html)
 * [Samsung NX200](http://www.samsung.com/hk_en/cameras/nx200/) (+tripod)
+* [DJI Mavic Mini](https://www.dji.com/mavic-mini)
 
 {% include spacer.html %}
 
