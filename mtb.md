@@ -84,7 +84,7 @@ comments: true
 * Grips: Specialized Contour (women)
 * Flat Pedals: HT AN-14A
 * Wheelset: 27.5" DT Swiss EX 1501 SPLINE, Muc-Off valves, with Nukeproof tire noodle
-* Tyres: 2.4" MAXXIS Ardent 3C (Grip front, Terra rear) - Tubeless (Muc-Off sealant)
+* Tyres: 2.5" MAXXIS Assegai 3C (Grip front, Terra rear) - Tubeless (Muc-Off sealant)
 * Weight on the trail: 15.1 kg
 
 {% include spacer.html %}
