@@ -7,7 +7,7 @@ comments: false
 ---
 
 {% include image.html
-  img="https://valkyrja.app/img/kara.png"
+  img="assets/kara.png"
   title="The bunny Valkyrie Kára."
   caption=""
   url="https://valkyrja.app/img/kara.png"
