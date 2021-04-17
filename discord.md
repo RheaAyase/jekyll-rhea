@@ -6,6 +6,16 @@ include-priority: true
 comments: false
 ---
 
+{% include image.html
+  img="https://valkyrja.app/img/kara.png"
+  title="The bunny Valkyrie Kára."
+  caption=""
+  url="https://valkyrja.app/img/kara.png"
+  align="right"
+  float="true"
+  border="1px"
+%}
+
 You can find Rhea on Discord by: `Rhea#1234`
 
 Rhea's home Discord server [Valhalla](https://discord.gg/3D8DagKS4d) - friends group, twitch subscribers, rp & gaming, movie nights, etc...
