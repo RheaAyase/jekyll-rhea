@@ -52,6 +52,9 @@ The total sum is 4000$ rounded up for other minor expenses (cables, charger, ...
 The tracking is indeed flawless, and when paired with a good pilot and avatar, the experience that the people around you
 (your victims) is just amazing. Worth it. No regrets.
 
+Valve support has their hands full with me too, I've already RMA'd two controllers, one base station, headset, cable, and
+we're almost certainly not done. It was merely four months - however it was 2000 hours of VR (1200 VRChat.)
+
 #### WHY?!
 
 I don't know. Don't do it.
