@@ -11,6 +11,15 @@ mountain biking, and covid still ruled over the world. At the time of writing th
 
 <!--more-->
 
+#### What gear did you get?
+
+I've got the Valve Index with 5 base stations and an extra pair of controllers to be able to just swap them for fresh pair
+when one runs out of power. Oh and 6 trackers - both Vive 2.0 and 3.0, and I will be testing the Tundra trackers when they
+do happen for real. If they do? We shall see. I did get powerbanks for them, but I stopped using them when I got the 2nd
+set of trackers. Now I just swap between the two sets. Powerbanks are heavy. Very heavy. It causes wobble and ruins the
+immesion for my victims. I intimidate (innocent-dom?) people in VR and generally roleplay a lot. Flawless tracking matters
+to me.
+
 {% include image.html
   img="assets/rhea-vr.jpg"
   title="Rhea in VR"
@@ -21,15 +30,6 @@ mountain biking, and covid still ruled over the world. At the time of writing th
   border="1px"
   width="50%"
 %}
-
-#### What gear did you get?
-
-I've got the Valve Index with 5 base stations and an extra pair of controllers to be able to just swap them for fresh pair
-when one runs out of power. Oh and 6 trackers - both Vive 2.0 and 3.0, and I will be testing the Tundra trackers when they
-do happen for real. If they do? We shall see. I did get powerbanks for them, but I stopped using them when I got the 2nd
-set of trackers. Now I just swap between the two sets. Powerbanks are heavy. Very heavy. It causes wobble and ruins the
-immesion for my victims. I intimidate (innocent-dom?) people in VR and generally roleplay a lot. Flawless tracking matters
-to me.
 
 This setup is arguably the best one could buy - even Pimax 8k doesn't compare at all. The only advantage of Pimax is
 better visual fidelity, however it has worse audio, comfort, ease of use, support, durability, .... And you can't even use prescription lenses with it.
@@ -47,8 +47,7 @@ How much? Well let's do the back of the envelope math:
 * [Kiwi cooler for Index](https://www.amazon.co.uk/gp/product/B08N4H236Y) 55$
 * Prescription Lenses 140$
 
-The total sum is 4000$ rounded up for other minor expenses (cables, charger, ...) ~ Insane, isn't it? Wait for it... 5950x
-+ nVidia 3090 do count another 3500$ !
+The total sum is 4000$ rounded up for other minor expenses (cables, charger, ...) ~ Insane, isn't it? Wait for it... 5950x + nVidia 3090 do count another 3500$ !
 
 The tracking is indeed flawless, and when paired with a good pilot and avatar, the experience that the people around you
 (your victims) is just amazing. Worth it. No regrets.
