@@ -31,6 +31,5 @@ Some of the Discord servers that Rhea is responsible for:
   - [discord.gg/mtb](https://discord.gg/mtb) - Mountain Biking community
   - [discord.gg/fedora](https://discord.gg/fedora) - Fedora Linux
   - [discord.gg/elite](https://discord.gg/elite) - Elite Dangerous game
-  - [discord.gg/PlanetZoo](https://discord.gg/planetzoo) - Planet Zoo game
   - ...and more...
 
