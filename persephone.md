@@ -9,7 +9,7 @@ It lives from [patreon](https://www.patreon.com/ValkyrjaProject) contributions.
 
 Keyra is a Fedora Linux server in [Rhea's livingroom](https://cloud.rhea.dev/s/ZxTEzgH8YF2YeS4), connected to symmetric 300/300 mbps line with 100mbps failover managed by [apu2c4](https://www.pcengines.ch/apu2c4.htm) with pfSense. It's pink.
 
-You can find status of the server on our [esm page](http://status.persephone.cloud).
+You can find status of the server on our [grafana page](http://status.valkyrja.app).
 
 {: .centered .striped .highlight}
 ||Component|Model||
