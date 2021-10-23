@@ -4,8 +4,8 @@
 ####################################
 #
 title: Rhea Ayase
-email: rhea@ayase.eu
-description: Personal website and blog of Radka Gustavsson, Community Manager and .NET Core Quality Engineering Lead at Red Hat. Shredding the trails on her mountain bike and inspiring the desolate whitespace of Linux world with the delicate C# letters of simplified artificial intelligence.
+email: contact@rhea.dev
+description: Personal website and blog of Rhea Gustavsson, Community Manager and .NET Core Quality Engineering Lead at Red Hat. Shredding the trails on her mountain bike and inspiring the desolate whitespace of Linux world with the delicate C# letters of simplified artificial intelligence.
 url: https://rhea.dev
 
 
@@ -42,7 +42,7 @@ owner:
   about-url: "https://rhea.dev/about"
   #about-url: "https://rhea.dev/articles/1990-08/Who-is-Rhea"
   disqus-shortname: rheaayase
-  discord: https://discord.gg/fedora
+  discord: https://discord.gg/die-in-battle
   twitter: RheaAyase
   facebook: #username
   google:
