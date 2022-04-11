@@ -14,8 +14,6 @@ comments: false
   border="1px"
 %}
 
- &nbsp; The name is Radka, but I'm known as Rhea Ayase on the interwebz.
-
  &nbsp; I began my career in game development, leaving my C++ code all over the Angry Birds, later on a little bit of C++ and Python in the World of Tanks engine, and a lot of C# in several other released titles and prototypes. I'm currently wearing my Red Hat though. As you could have guessed, I'm on the dotnet, Azure and OpenShift teams. I love C#, I find C++ a bit too slow to use, and dislike Python for its whitespace syntax... Hate me for it if you want **:**p 
 
  &nbsp; I was familiar with Linux for a long time, and actively started using it somewhere around 2008. My first desktop distribution was Mandriva 2008, later it was Arch Linux and during university I switched to BackTrack, because I studied security and felt like I might as well play around a little bit out of the standard sandbox... As far as servers go my first server experience was with CentOS, then I went through ClearOS briefly, and ended up using unRAID on my home-server. It was an interesting project to set up all the things. After university I went more casual and after I sold my notebook I was left with only my Windows PC and the unRAID server for many years, however recently I went [from unRAID to Fedora Server](https://rhea.dev/articles/2017-07/Migrating-from-unRAID-to-Fedora). By the way, [Nextcloud](https://nextcloud.com) is awesome!
