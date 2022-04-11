@@ -47,6 +47,8 @@ The tracking is indeed flawless, and when paired with a good pilot and avatar, t
 
 Valve support has their hands full with me too, I've already RMA'd two controllers, one base station, headset, cable, and we're almost certainly not done. It was merely four months - however it was 2000 hours of VR (1200 VRChat.)
 
+Update: A little over a year and 4000 hours of VR my opinion did not change.
+
 #### WHY?!
 
 I don't know. Don't do it.
