@@ -38,7 +38,7 @@ How much? Well let's do the back of the envelope math:
 * Rebuff Reality TrackStrap (two sets) 2x 80$
 * Rebuff Reality powerbanks 3x 45$
 * Spare Index cable (cuz I did break one and support was slow) 190$
-* [Kiwi cooler for Index](https://www.amazon.co.uk/gp/product/B08N4H236Y) 55$
+* [3D printed Noctua cooler for Index](https://www.etsy.com/shop/VoltPrints) 75$
 * Prescription Lenses 140$
 
 The total sum is 4500$ rounded up for other minor expenses (cables, charger, ...) ~ Insane, isn't it? Wait for it... 5950x + nVidia 3090 do count another 3500$ !
