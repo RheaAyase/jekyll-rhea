@@ -30,6 +30,10 @@ The message I'm trying to send here is that all of the above is okay. It's okay 
 [Next story]({{ site.url }}/articles/2022-11/Walkies)
 -->
 
+&nbsp;
+
+{% include spacer.html %}
+
 {% include image.html
   img="assets/bdsm/kass-property-lq.jpg"
   title="Collar on the neck of Rhea's pet with engraved heart saying Property of Rhea."
@@ -39,6 +43,4 @@ The message I'm trying to send here is that all of the above is okay. It's okay 
   float="false"
   border="1px"
 %}
-
-{% include spacer.html %}
 
