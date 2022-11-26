@@ -26,9 +26,7 @@ The message I'm trying to send here is that all of the above is okay. It's okay 
 
 **Be yourself.**
 
-<!--
 [Next story]({{ site.url }}/articles/2022-11/Walkies)
--->
 
 &nbsp;
 
