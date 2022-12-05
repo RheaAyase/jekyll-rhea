@@ -16,20 +16,20 @@ This is a story of self discovery, freedom of expression, passion and responsibi
 I woke up in the morning, had a dream about crazy rides in an amusement park. Reminded me of our first date. I went to wake her up, sat on the side of her bed. Grabbed her hand by her wrist, I said "wakey wakey." - "Good morning Mistress," she replied. I said "Remember Thorpe park?" Her tail started to wag under the blanket - using her leg.
 
 _We were waiting in an endless queue,_
-_She stepped on my shoe._
-_I was holding a jacket in my hand,_
-_I passed it to George, our friend._
+<br>_She stepped on my shoe._
+<br>_I was holding a jacket in my hand,_
+<br>_I passed it to George, our friend._
 
 _I rushed a hand behind her head,_
-_Firm was my grip on her hair,_
-_The other on her neck denying air,_
-_Pushing her hard against the wall,_
-_Protecting her head after all._
+<br>_Firm was my grip on her hair,_
+<br>_The other on her neck denying air,_
+<br>_Pushing her hard against the wall,_
+<br>_Protecting her head after all._
 
 _The crowd in distress,_
-_"I'm sorry Mistress."_
-_A kiss on her lips,_
-_The crowd now giggles._
+<br>_"I'm sorry Mistress."_
+<br>_A kiss on her lips,_
+<br>_The crowd now giggles._
 
 
 <!--
