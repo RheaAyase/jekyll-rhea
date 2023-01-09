@@ -32,7 +32,7 @@ _The crowd in distress,_
 <br>_The crowd now giggles._
 
 
-[Next story]({{ site.url }}/articles/2022-12/Clingy-pet)
+[Next story]({{ site.url }}/articles/2023-01/Clingy-pet)
 
 &nbsp;
 
