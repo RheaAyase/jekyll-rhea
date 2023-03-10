@@ -54,10 +54,10 @@ partner, make sure that you both understand what the other considers good qualit
 {% include spacer.html %}
 
 {% include image.html
-  img="assets/bdsm/bdsm-03-slq.png"
-  title="A sketch of Rhea's pet wearing a deer headband for xmas, clinging to her leg"
-  caption="A sketch of Rhea's pet wearing a deer headband for xmas, clinging to her leg"
-  url="https://rhea.dev/assets/bdsm/bdsm-03-sl.png"
+  img="assets/bdsm/bdsm-04-sclq.png"
+  title="A sketch of Rhea's pet clinging to her leg"
+  caption="A sketch of Rhea's pet clinging to her leg"
+  url="https://rhea.dev/assets/bdsm/bdsm-04-scl.png"
   align="center"
   float="false"
   border="1px"
