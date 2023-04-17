@@ -2,6 +2,7 @@
 layout: page
 title:  "Rhea's Discord presence"
 permalink: /discord/
+include-priority: true
 comments: false
 ---
 
