@@ -45,9 +45,7 @@ and cuddles in bed before falling asleep, talking about all kinds of things. But
 I very much enjoy having a clingy pet, all of the above is amazing. What's your quality time? Talk about it with your
 partner, make sure that you both understand what the other considers good quality time.
 
-<!--
-[Next story]({{ site.url }}/articles/2022-11/Walkies)
--->
+[Next story]({{ site.url }}/articles/2023-04/Soft-Domme)
 
 &nbsp;
 
