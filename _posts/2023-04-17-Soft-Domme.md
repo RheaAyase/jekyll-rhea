@@ -13,6 +13,8 @@ Join my [Discord server](https://discord.gg/m2PFpymQb9) for discussion.
 
 <!--more-->
 
+### Munch - Soft Dominance
+
 I host a bi-weekly munch in virtual reality where we discuss specific topics with an opening presentation from the host -
 me. This is that presentation that the attendee can refer back to.
 
