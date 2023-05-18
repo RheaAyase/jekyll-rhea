@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Self discovery, freedom of expression, acceptance by others."
 date:   2022-11-24 18:00:00
 categories: [BDSM Lifestyle]
