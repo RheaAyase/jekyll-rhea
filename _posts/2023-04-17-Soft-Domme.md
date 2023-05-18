@@ -3,6 +3,7 @@ layout: post
 title:  "Soft Dominance"
 date:   2023-04-17 16:00:00
 categories: [BDSM Lifestyle]
+unlisted: true
 comments: true
 ---
 This is a story of self discovery, freedom of expression, passion and responsibility. Based on real events and characters, it takes shape of an irregular diary, a collection of small independent stories. Featuring BDSM lifestyle, some may consider it to be NSFW, however it is but a day in my life. Certainly 18+ though! So do not proceed if you're not of age or maturity.
