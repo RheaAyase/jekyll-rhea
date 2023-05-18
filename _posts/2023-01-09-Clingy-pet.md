@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Clingy pet"
 date:   2023-01-09 16:00:00
 categories: [BDSM Lifestyle]
