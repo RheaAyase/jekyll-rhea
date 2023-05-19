@@ -18,7 +18,7 @@ comments: false
 
 #### Get in touch...
 
-You can find Rhea on Discord by: `Rhea#1234`
+You can find Rhea on Discord by: `@rhea`
 
 Or you can join her home server [Valhalla](https://discord.gg/3D8DagKS4d) - friends group, twitch subscribers, rp & gaming, movie nights, etc...
 
