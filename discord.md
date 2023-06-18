@@ -18,7 +18,7 @@ comments: false
 
 #### Get in touch...
 
-You can find Rhea on Discord with`rhea` as the username. Do not send friend requests, they're blocked due to extreme spam. You can however send a DM - you can join Valhalla below if you need a common server to do so.
+You can find Rhea on Discord with `rhea` as the username. Do not send friend requests, they're blocked due to extreme spam. You can however send a DM - you can join Valhalla below if you need a common server to do so.
 
 _Don't just say hi, or "how are you" - that will get you blocked immediately. Introduce yourself. Say who you are and why you're messaging._
 
