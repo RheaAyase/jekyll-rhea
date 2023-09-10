@@ -71,9 +71,7 @@ One of the most important tools in the soft dom/me's repertoire is positive rein
 - Activities they enjoy - this is often in dominants company. Such as walkies or maybe go see a movie together, perhaps in a cinema. Or you can give them a bath ball and tell them to relax for a bit. Whatever they truly enjoy.
 - Snacks or drinks as a reward, other kinds of small and playful things.
 
-<!--
-[Next story]({{ site.url }}/articles/2022-11/Walkies)
--->
+[Next story]({{ site.url }}/articles/2023-09/Fire)
 
 &nbsp;
 
