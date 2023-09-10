@@ -20,4 +20,5 @@ Join my [Discord server](https://discord.gg/m2PFpymQb9) for discussion.
 * [Thorpe Park]({{ site.url }}/articles/2022-12/Thorpe-Park) - Poetry
 * [Clingy pet]({{ site.url }}/articles/2023-01/Clingy-pet) - Prose
 * [Soft Domme]({{ site.url }}/articles/2023-04/Soft-Domme) - Educational
+* [Fire]({{ site.url }}/articles/2023-09/Fire) - Poetry
 
