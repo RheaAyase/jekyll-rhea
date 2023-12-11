@@ -29,8 +29,8 @@ Join my [Discord server](https://discord.gg/m2PFpymQb9) for discussion.
   title="Rhea in her casual outfit."
   caption="Rhea in her casual outfit."
   url="assets/bdsm/rhea.jpg"
-  align="right"
-  float="true"
+  align="left"
+  float="false"
   border="1px"
 %}
 
