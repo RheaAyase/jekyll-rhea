@@ -13,7 +13,8 @@ Join my [Discord server](https://discord.gg/m2PFpymQb9) for discussion.
 
 <!--more-->
 
-<!-- ### Chapter one -->
+{% include spacer.html %}
+
 * [How it all began - a story of self discovery.]({{ site.url }}/articles/2022-11/Self-discovery-freedom-acceptance)
 * [Walkies]({{ site.url }}/articles/2022-11/Walkies) - Prose
 * [BDSM in VRChat]({{ site.url }}/articles/2022-11/VRChat) - Educational
@@ -23,3 +24,14 @@ Join my [Discord server](https://discord.gg/m2PFpymQb9) for discussion.
 * [Fire]({{ site.url }}/articles/2023-09/Fire) - Poetry
 * [Fear]({{ site.url }}/articles/2023-11/Fear) - Prose
 
+{% include image.html
+  img="assets/bdsm/rhea-lq.jpg"
+  title="Rhea in her casual outfit."
+  caption="Rhea in her casual outfit."
+  url="assets/bdsm/rhea.jpg"
+  align="right"
+  float="true"
+  border="1px"
+%}
+
+{% include spacer.html %}
