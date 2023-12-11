@@ -24,6 +24,7 @@ Join my [Discord server](https://discord.gg/m2PFpymQb9) for discussion.
 * [Fire]({{ site.url }}/articles/2023-09/Fire) - Poetry
 * [Fear]({{ site.url }}/articles/2023-11/Fear) - Prose
 
+<!--
 {% include image.html
   img="assets/bdsm/rhea-lq.jpg"
   title="Rhea in her casual outfit."
@@ -35,3 +36,5 @@ Join my [Discord server](https://discord.gg/m2PFpymQb9) for discussion.
 %}
 
 {% include spacer.html %}
+-->
+
