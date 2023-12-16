@@ -25,7 +25,7 @@ Join my [Discord server](https://discord.gg/m2PFpymQb9) for discussion.
 * [Fear]({{ site.url }}/articles/2023-11/Fear) - Prose
 
 <!--
-{% include image.html
+{--% include image.html
   img="assets/bdsm/rhea-lq.jpg"
   title="Rhea in her casual outfit."
   caption="Rhea in her casual outfit."
@@ -35,6 +35,6 @@ Join my [Discord server](https://discord.gg/m2PFpymQb9) for discussion.
   border="1px"
 %}
 
-{% include spacer.html %}
+{--% include spacer.html %}
 -->
 
