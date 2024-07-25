@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Virtual Reality"
+title:  "Installing Windows games on Linux - HoYoPlay & Zenless Zone Zero"
 date:   2024-07-25 17:01:19
 categories: [code]
 comments: true
