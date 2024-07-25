@@ -6,13 +6,13 @@ categories: [code]
 comments: true
 ---
 
-You can easily run any Windows game on Linux nowadays without too much work. Let's look at an example - gatcha games - you won't find those on Steam. How would you go about installing it on Linux, on your Steam Deck, or other gaming hardware? You don't even need Lutris, but that is certainly an option if you use it. We're gonna look at using Steam's own functionality alone.
+You can easily run any Windows game on Linux nowadays without too much work. Let's look at an example - gacha games - you won't find those on Steam. How would you go about installing it on Linux, on your Steam Deck, or other gaming hardware? You don't even need Lutris, but that is certainly an option if you use it. We're gonna look at using Steam's own functionality alone.
 
 <!--more-->
 
 #### HoYoPlay and Zenless Zone Zero
 
-One of the most recent gatcha releases is Zenless Zone Zero game from HoYoVerse. This is the same folks behind Genshin
+One of the most recent gacha releases is Zenless Zone Zero game from HoYoVerse. This is the same folks behind Genshin
 Impact and you can indeed install that or many other games this way. This process takes advantage of Steam and Proton to install
 windows applications. We will run the .exe installer through Steam to get it installed, then modify said install to be
 able to launch the installed product through Steam.
@@ -24,7 +24,7 @@ HoYoPlay is their launcher through which you can install these games. Let's get 
 1. If you're on SteamDeck (or other Steam gamemode session) make sure to switch to Desktop first :)
 2. Download the launcher: [https://hoyoplay.hoyoverse.com](https://hoyoplay.hoyoverse.com)
 3. Add to Steam as a non-steam app (Menu -> Games -> Add a non-steam game to my Library)
-4. Rightclick the added installer and go to its Properties -> Force the latest Proton version (at the time of writing 9.x)
+4. Right click the added installer and go to its Properties -> Force the latest Proton version (at the time of writing 9.x)
 5. Play -> it should now run the installer for HoYoPlay, follow the steps to install it. If the launcher automatically starts it at the end, close it.
 
 We've now installed the launcher but we can't exactly execute it directly just yet. Let's sort that out:
@@ -34,14 +34,14 @@ We've now installed the launcher but we can't exactly execute it directly just y
   - Note this `<ID>`, we will need it later.
   - If you're not on Steam Deck the `/home/deck` is gonna be different - that's your home folder and it will be your
     username.
-2. Rightclick the added launcher and go to its Properties -> Force the latest proton version again (at the time of writing
+2. Right click the added launcher and go to its Properties -> Force the latest proton version again (at the time of writing
    9.x)
 3. Run it once and close it.
 4. Now we have two `<ID>` folders at the path described above, one with above identified `<ID>` for the installer, and the newer one for the actual launcher.
   - You want to move entire `<ID>/pfx/drive_c/` from the installer `<ID>` we noted earlier to the launcher one. Verify you're moving the correct files - it should have the launcher.exe in it. We want it in the new "launcher" app folder. Once you are certain which one is which, I recommend you to delete the `drive_c` in the destination before cut&paste of the correct files.
-5. Properties on the newer app -> Fix the name, change the Target to the correct folder/launcher.exe as well as the Start In location.
+5. Go to the Properties on the newer app yet again -> Fix the name, change the Target to the correct folder/launcher.exe as well as the Start In location.
 
-You're done. Verify that it's functional! You can now run it, use it, install your gatcha games, etc.
+You're done. Verify that it's functional! You can now run it, use it, install your gacha games, etc.
 
 Cleanup and optional improvements:
 
@@ -58,10 +58,10 @@ Find me in the Fedora Linux Discord if you have any issues or questions.
   title="HoYoPlay running on GPD Win4 (Linux)"
   caption="HoYoPlay running on GPD Win4 (Linux)"
   url="https://rhea.dev/assets/gpd-hoyoplay.jpg"
-  align="right"
+  align="center"
   float="false"
   border="1px"
-  width="50%"
+  width="75%"
 %}
 
 {% include image.html
@@ -69,10 +69,10 @@ Find me in the Fedora Linux Discord if you have any issues or questions.
   title="ZZZ running on GPD Win4 (Linux)"
   caption="ZZZ running on GPD Win4 (Linux)"
   url="https://rhea.dev/assets/gpd-zzz.jpg"
-  align="right"
+  align="center"
   float="false"
   border="1px"
-  width="50%"
+  width="75%"
 %}
 
 
