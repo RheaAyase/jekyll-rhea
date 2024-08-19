@@ -17,6 +17,10 @@ Impact and you can indeed install that or many other games this way. This proces
 windows applications. We will run the .exe installer through Steam to get it installed, then modify said install to be
 able to launch the installed product through Steam.
 
+If you're installing any other launcher, you can use this exact process for that too. I've done the same exact steps for
+other launchers - for example **Ubisoft Connect** (seen in a screenshot below). Just substitute hoyoplay for the launcher of
+your choice.
+
 #### Installing HoYoPlay
 
 HoYoPlay is their launcher through which you can install these games. Let's get to it:
@@ -52,6 +56,17 @@ Cleanup and optional improvements:
 ### Enjoy!
 
 Find me in the Fedora Linux Discord if you have any issues or questions.
+
+{% include image.html
+  img="assets/gpd-ubi-lq.jpg"
+  title="Ubisoft Connect running on GPD Win4 (Linux)"
+  caption="Ubisoft Connect running on GPD Win4 (Linux)"
+  url="https://rhea.dev/assets/gpd-ubi.jpg"
+  align="center"
+  float="false"
+  border="1px"
+  width="75%"
+%}
 
 {% include image.html
   img="assets/gpd-hoyoplay-lq.jpg"
