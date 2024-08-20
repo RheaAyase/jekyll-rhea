@@ -38,7 +38,7 @@ We've now installed the launcher but we can't exactly execute it directly just y
   - You want to move entire `<ID>/pfx/drive_c/` from the installer `<ID>` we noted earlier to the launcher one. Verify you're moving the correct files - it should have the launcher.exe in it. We want it in the new "launcher" app folder. Once you are certain which one is which, I recommend you to delete the `drive_c` in the destination before cut&paste of the correct files.
 5. Go to the Properties on the newer app yet again -> Fix the name, change the Target to the correct folder/launcher.exe as well as the Start In location.
 
-You're done. Verify that it's functional! You can now run it, use it, install your gacha games, etc.
+You're done. Verify that it's functional! You can now run it, use it, install all the Ubisoft games you like, etc.
 
 Cleanup and optional improvements:
 
