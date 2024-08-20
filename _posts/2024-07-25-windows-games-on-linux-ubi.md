@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing Windows games on Linux - Ubisoft Connect"
-date:   2024-08-20 01:01:19
+date:   2024-08-20 00:31:19
 categories: [code]
 comments: true
 ---
@@ -43,7 +43,7 @@ You're done. Verify that it's functional! You can now run it, use it, install yo
 Cleanup and optional improvements:
 
 1. Remove the installer app from your steam and you can delete it from your `~/Downloads` as well. And don't forget to sort your Dolphin by name again ;)
-2. Optionally add launch param `--game=nap_global` which may or may not actually start the game. (At the time of writing this arg didn't actually work to directly update and start the game but that seems to be a bug.) You should not be running the game .exe directly, do not add it as a new non-steam app, this would not work. Use the HoYoPlay launcher.
+2. Optionally you can also add launch params to start the game of your choice right away, handy if you run only one game. However you should not be running the game .exe directly, do not add it as a new non-steam app, this would not work. Use the launcher.
 3. Use the SteamGridDB Decky Plugin to change the artwork on Steam ;)
 
 ### Enjoy!
