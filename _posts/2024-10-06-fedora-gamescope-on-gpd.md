@@ -32,7 +32,7 @@ HandHeld Daemon provides various functionality necessary to run your handheld se
 ## Install all the things
 
 Obviously we need steam and gamescope, both of which are already available. And hhd we enabled above.
-- `$ sudo dnf install steam gamescope hhd`
+- `$ sudo dnf install steam gamescope hhd hhd-ui`
 
 ## Executing steam in gamescope
 
