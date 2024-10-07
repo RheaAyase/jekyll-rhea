@@ -13,6 +13,8 @@ enjoy full desktop environment.
 
 And so I've come to the conclusion, that the best thing I can do is to simply start from scratch. I've got [a little video](https://youtu.be/naxosj6NcGQ) showcasing what my install looks like, the below is the minimum you'd need to take care of to get something similar.
 
+Note that this is about standard rpm based Fedora - **NOT Atomic Fedora** (NOT Silverblue/Kinoite/etc)
+
 <!--more-->
 
 ## fsync-kernel
