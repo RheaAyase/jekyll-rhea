@@ -19,18 +19,6 @@ seriously we had some C as well at the Faculty of Information Technology of Brno
 point I've done some Cisco network academy courses - CCNA or something. Also some classes where we learned how to break
 into "secured" wifi networks and such. A bit of everything, really.
 
-{% include spacer.html %}
-
-{% include image.html
-  img="img/tuxie1-low.jpg"
-  title="Photo of Rhea smiling, at a desk with a Linux mascot."
-  caption="This photo is as old as covid. But I'm smiling in it."
-  align="right"
-  float="true"
-  border="1px"
-  width="50%"
-%}
-
 ## Professional experience
 
 - 2013-2016: Exient - C# (Unity3D) & C++ (Proprietary engines) Programmer
@@ -45,6 +33,16 @@ into "secured" wifi networks and such. A bit of everything, really.
   - Anvil and Snowdrop game engines.
 - 2025-present: Clearly the reader of this is my future employer, right?!
 
+{% include image.html
+  img="img/tuxie1-low.jpg"
+  title="Photo of Rhea smiling, at a desk with a Linux mascot."
+  caption="This photo is as old as covid. But I'm smiling in it."
+  align="right"
+  float="true"
+  border="1px"
+  width="50%"
+%}
+
 ## Projects involved in Professionally
 
 Professionally only, there were many more open source, personal projects, small and large.
@@ -55,8 +53,9 @@ Professionally only, there were many more open source, personal projects, small 
 - World of Tanks (The original one, BigWorld C++ engine, python gameplay code, and C#/Unity prototypes)
 - NDA 3A multiplayer game (PC, PS5, XBSX)
 - NDA 3A multiplayer game (PC, PS5, XBSX)
-- The .NET (x64, aarch64, s390x, ppc, containers/OpenShift | RHEL7, RHEL8, CENTOS, Fedora,..)
+- The .NET (x64, aarch64, s390x, ppc, containers/OpenShift \| RHEL7, RHEL8, CENTOS, Fedora,..)
 - Presented at many .NET and OpenSource conferences, meetups and events.
+- Actively contributing to many open source projects and communities.
 
 {% include spacer.html %}
 
