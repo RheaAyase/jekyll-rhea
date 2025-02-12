@@ -121,30 +121,12 @@ This bike needs a bit more love - replacing the brakes with Hope V4 is the first
 
 #### Clothes
 
-{% include image.html
-  img="assets/mtb/watch.jpg"
-  title="Rhea's Samsung Gear watch"
-  caption="Rhea's Samsung Gear watch with custom watch face"
-  url="https://rhea.dev/assets/mtb/watch.jpg"
-  align="right"
-  float="true"
-  border="1px"
-%}
-
 * Shoes - casual/backup: Five Ten Freerider women's
 * Shoes - DH: Five Ten Impact Pro
 * Backpack: evoc FR Enduro women's
 * Goggles: Melon Optices Diablo
 * Helmet: Bell Super 3R MIPS 2018 (Black/Cherry)
 * Knee+shin guards: Fox Launch D3O (an older version with long shin protector)
-
-#### Digital
-
-* [Samsung Note 9](https://www.gsmarena.com/samsung_galaxy_note9-9163.php)
-* [Samsung Gear S3 classic](https://www.gsmarena.com/samsung_gear_s3_classic-8309.php)
-* [GoPro Hero 7 Black](https://gopro.com/en/us/shop/cameras/hero7-black/CHDHX-701-master.html)
-* [Samsung NX200](http://www.samsung.com/hk_en/cameras/nx200/) (+tripod)
-* [DJI Mavic Mini](https://www.dji.com/mavic-mini)
 
 {% include spacer.html %}
 
