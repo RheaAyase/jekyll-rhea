@@ -19,6 +19,8 @@ seriously we had some C as well at the Faculty of Information Technology of Brno
 point I've done some Cisco network academy courses - CCNA or something. Also some classes where we learned how to break
 into "secured" wifi networks and such. A bit of everything, really.
 
+{% include spacer.html %}
+
 ## Professional experience
 
 - 2013-2016: Exient - C# (Unity3D) & C++ (Proprietary engines) Programmer
@@ -54,8 +56,9 @@ I'm a jack of all trades at work, as well as in life. I can code, I can draw, I 
   img="img/tuxie1-low.jpg"
   title="Photo of Rhea smiling, at a desk with a Linux mascot."
   caption="This photo is as old as covid. But I'm smiling in it."
-  align="center"
-  float="false"
+  align="right"
+  float="true"
   border="1px"
+  width="50%"
 %}
 
