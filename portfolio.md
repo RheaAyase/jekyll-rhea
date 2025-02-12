@@ -21,6 +21,16 @@ into "secured" wifi networks and such. A bit of everything, really.
 
 {% include spacer.html %}
 
+{% include image.html
+  img="img/tuxie1-low.jpg"
+  title="Photo of Rhea smiling, at a desk with a Linux mascot."
+  caption="This photo is as old as covid. But I'm smiling in it."
+  align="right"
+  float="true"
+  border="1px"
+  width="50%"
+%}
+
 ## Professional experience
 
 - 2013-2016: Exient - C# (Unity3D) & C++ (Proprietary engines) Programmer
@@ -47,16 +57,6 @@ Professionally only, there were many more open source, personal projects, small 
 - NDA 3A multiplayer game (PC, PS5, XBSX)
 - The .NET (x64, aarch64, s390x, ppc, containers/OpenShift | RHEL7, RHEL8, CENTOS, Fedora,..)
 - Presented at many .NET and OpenSource conferences, meetups and events.
-
-{% include image.html
-  img="img/tuxie1-low.jpg"
-  title="Photo of Rhea smiling, at a desk with a Linux mascot."
-  caption="This photo is as old as covid. But I'm smiling in it."
-  align="right"
-  float="true"
-  border="1px"
-  width="50%"
-%}
 
 {% include spacer.html %}
 
