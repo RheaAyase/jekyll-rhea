@@ -2,7 +2,6 @@
 layout: post
 title:  "Soft Dominance"
 date:   2023-04-17 16:00:00
-categories: [BDSM Lifestyle]
 unlisted: true
 comments: true
 ---
