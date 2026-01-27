@@ -23,31 +23,20 @@ HoYoPlay is their launcher through which you can install these games. Let's get 
 
 1. If you're on SteamDeck (or other Steam gamemode session) make sure to switch to Desktop first :)
 2. Download the launcher: [https://hoyoplay.hoyoverse.com](https://hoyoplay.hoyoverse.com)
-3. Add to Steam as a non-steam app (Menu -> Games -> Add a non-steam game to my Library)
-4. Right click the added installer and go to its Properties -> Force the latest Proton version (at the time of writing 9.x)
-5. Play -> it should now run the installer for HoYoPlay, follow the steps to install it. If the launcher automatically starts it at the end, close it.
+3. Add it to Steam as a non-steam game (Menu -> Games -> Add a non-steam game to my Library)
+4. Right click the added installer and go to its Properties -> Compatibility -> Force the use of dwproton.
+5. Play -> it should now run the installer, follow the steps to install it, all the defaults are fine. If the launcher automatically starts it at the end, close it.
 
 We've now installed the launcher but we can't exactly execute it directly just yet. Let's sort that out:
 
-1. Add to steam as non-steam app: `/home/deck/.steam/steam/steamapps/compatdata/<ID>/pfx/drive_c/Program Files/HoYoPlay/launcher.exe`
-  - Where you can sort it by date to see the most recently modified folder, that's probably it.
-  - Note this `<ID>`, we will need it later.
-  - If you're not on Steam Deck the `/home/deck` is gonna be different - that's your home folder and it will be your
-    username.
-2. Right click the added launcher and go to its Properties -> Force the latest proton version again (at the time of writing
-   9.x)
-3. Run it once and close it.
-4. Now we have two `<ID>` folders at the path described above, one with above identified `<ID>` for the installer, and the newer one for the actual launcher.
-  - You want to move entire `<ID>/pfx/drive_c/` from the installer `<ID>` we noted earlier to the launcher one. Verify you're moving the correct files - it should have the launcher.exe in it. We want it in the new "launcher" app folder. Once you are certain which one is which, I recommend you to delete the `drive_c` in the destination before cut&paste of the correct files.
-5. Go to the Properties on the newer app yet again -> Fix the name, change the Target to the correct folder/launcher.exe as well as the Start In location.
-
-You're done. Verify that it's functional! You can now run it, use it, install your gacha games, etc.
-
-Cleanup and optional improvements:
-
-1. Remove the installer app from your steam and you can delete it from your `~/Downloads` as well. And don't forget to sort your Dolphin by name again ;)
-2. Optionally add launch param `--game=nap_global` which may or may not actually start the game. (At the time of writing this arg didn't actually work to directly update and start the game but that seems to be a bug.) You should not be running the game .exe directly, do not add it as a new non-steam app, this would not work. Use the HoYoPlay launcher.
-3. Use the SteamGridDB Decky Plugin to change the artwork on Steam ;)
+1. Right click the installer in steam again, this time we're gonna change the Target field to `"/home/deck/.steam/steam/steamapps/compatdata/<ID>/pfx/drive_c/Program Files/HoYoPlay/launcher.exe"`
+  - You may have noticed the `<ID>` there - this is a generated ID for your non steam game and it's probably different from mine. To find out what it is, simply navigate to that location and take a look at which folder was modified last. That's the correct one.
+  - If you're not on Steam Deck the `/home/deck` is gonna be different - that's your home folder and it will be your username.
+  - And don't forget the quotes!
+2. You're actually done now. It will work with gamescope, mangohud, or any other shenanigans that you're used to. Probably. Use the Launch options same as with any other Steam game.
+  - Optionally add launch param `--game=nap_global` which may or may not actually start the game. (At the time of writing this arg didn't actually work to directly update and start the game but that seems to be a bug.)
+3. Use the SteamGridDB Decky Plugin to change the artwork on Steam, or SDGBoop (flatpak) in combination with [steamgriddb.com](https://www.steamgriddb.com/search/logos)
+4. Cleanup - you can now delete the installer.
 
 ### Enjoy!
 
