@@ -24,7 +24,7 @@ HoYoPlay is their launcher through which you can install these games. Let's get 
 1. If you're on SteamDeck (or other Steam gamemode session) make sure to switch to Desktop first :)
 2. Download the launcher: [https://hoyoplay.hoyoverse.com](https://hoyoplay.hoyoverse.com)
 3. Add it to Steam as a non-steam game (Menu -> Games -> Add a non-steam game to my Library)
-4. Right click the added installer and go to its Properties -> Compatibility -> Force the use of dwproton.
+4. Right click the added installer and go to its Properties -> Compatibility -> Force the use of proton.
 5. Play -> it should now run the installer, follow the steps to install it, all the defaults are fine. If the launcher automatically starts it at the end, close it.
 
 We've now installed the launcher but we can't exactly execute it directly just yet. Let's sort that out:
