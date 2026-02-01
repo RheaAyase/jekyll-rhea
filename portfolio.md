@@ -79,9 +79,8 @@ Professionally only, there were many more open source, personal projects, small 
 
 On a more personal level I strive for better and more secure communities online. I run infrastructure that provides server hosting for various open source projects, I create tools and bots that help manage communities and protect from spam, and I do my best to uphold values of privacy in doing so. It's been 10 years and a few months since I set off on this mission and I still keep it up, through all the hardship in my life. What's that, a new phishing scam? I'll quickly implement the countermeasures. My community management tools are used by many open source and Linux communities, including for example Blender, Manjaro, Arch, OpenSUSE and many many others. And somewhat obviously, also Fedora Linux Discord community which I founded eons ago and manage to this day.
 
-## Who am I?
-
 {% include spacer.html %}
+## Who am I?
 
 {% include image.html
   img="assets/speaker/2022_specialeffect.jpg"
