@@ -36,8 +36,8 @@ owner:
   name: "Rhea Gustavsson"
   nickname: "Rhea Ayase"
   avatar: avatar.jpg
-  job: "writes and teaches C# code on Linux." #".NET Software Engineer<br />Linux Programmer Specialist<br />Azure OnDemand Support"
-  bio: "Rhea the Biker and a Senior Game Developer. Formerly known for her exploits in the Linux world as the .NET QE Lead at Red Hat."
+  job: "writes and teaches C# code on Linux."
+  bio: "Rhea the Biker and a Senior Game Developer. <br /> Formerly known for her exploits in the Linux world as the .NET QE Lead at Red Hat."
   #email: rhea@ayase.eu
   about-url: "https://rhea.dev/about"
   #about-url: "https://rhea.dev/articles/1990-08/Who-is-Rhea"
