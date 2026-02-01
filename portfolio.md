@@ -8,8 +8,6 @@ Portfolio? What's that? Okay I'll try... But it's gonna be a story, or at least 
 
 ## Education
 
-TLDR:
-
 - 2010-2013: Faculty of Information Technology - Brno University of Technology
 
 I graduated from a technical high school in Slovakia, where I learned an excessive amount of Math, Physics, a few
