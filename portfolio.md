@@ -73,7 +73,7 @@ Professionally only, there were many more open source, personal projects, small 
 - NDA 3A multiplayer game (PC, PS5, XBSX)
 - NDA 3A multiplayer game (PC, PS5, XBSX)
 - NDA 3A massively multiplayer game (PC)
-- The .NET (x64, aarch64, s390x, ppc, containers/OpenShift | RHEL7, RHEL8, CENTOS, Fedora,..)
+- The .NET (x64, aarch64, s390x, ppc, containers/OpenShift \| RHEL7, RHEL8, CENTOS, Fedora,..)
 - Presented at many .NET and OpenSource conferences, meetups and events.
 - Actively contributing to many open source projects and communities.
 
