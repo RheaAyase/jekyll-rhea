@@ -52,6 +52,8 @@ I was yoinked out of school by a small game dev studio, where my first task was 
 
 Some time later I was approached by Red Hat - they were growing their .NET team and liked that I had experience with both, C# and Linux. During my time with Red Hat I was promoted a bunch and my salary doubled. I felt appreciated at least for a while and at least by some people. One good metric of my impact that I can mention is that when I started, the Linux updates for .NET Core 1.0 lagged months behind Microsoft releases and when I left, it was down to minutes. I got to attend, present and represent both Red Hat and Fedora at many conferences and even help organise some. I enjoyed being in the Open Source community and contributing to it, whether it was technically, or socially.
 
+Game development after Red Hat was a bit more boring. Notably I owned core C++ features that will land in multiple future 3A multiplayer games. Cross-project and cross-team work.
+
 {% include spacer.html %}
 
 {% include image.html
