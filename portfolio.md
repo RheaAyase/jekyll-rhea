@@ -43,7 +43,6 @@ TLDR:
   - Core gameplay feature ownership spanning various gameplay teams (3Cs, Vehicles, Interactions, ...)
   - Shared code between future 3A multiplayer games.
   - Anvil and Snowdrop game engines.
-- 2025: Yet another misfortune I'm not ready to talk about in public.
 - 2026-present: Clearly the reader of this is my future employer, right?!
 
 I was yoinked out of school by a small game dev studio, where my first task was to fix issues with a port of Angry Birds Trillogy on PS Vita. This project had 160 000 lines of C++ code in one file, mostly one function (main update). It was ported from Lua. You know what they say, learn to swim by being thrown into the deep end eh? The fun didn't end there though, a while later we were working on World of Tanks, the original one. It had Python gameplay code with Russian documentation that we did not understand and the game engine was C++ code full of Ozzy slang! :D
