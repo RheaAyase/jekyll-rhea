@@ -6,6 +6,8 @@ categories: [code]
 comments: true
 ---
 
+`2026 revision, up to date kernel modules!`
+
 I tried other gaming oriented Linux distributions and found them all to be... well, to be frank, bloated. I don't need
 Lutris preinstalled, I don't use it. Just like I don't need 20 other tools or launchers or managers installed, with
 services running and draining my battery. Furthermore, I love the ability to simply "tab out" of my steam gamescope and
@@ -17,30 +19,26 @@ Note that this is about standard rpm based Fedora - **NOT Atomic Fedora** (NOT S
 
 <!--more-->
 
-## fsync-kernel
-
-Most of the tools necessary to achieve this are already there. Some devices, including GPD Win 4 do benefit from enabling the [fsync kernel copr repository](https://copr.fedorainfracloud.org/coprs/sentry/kernel-fsync). In order to use it you need to:
-- `$ sudo dnf copr enable sentry/kernel-fsync`
-- Edit `/etc/yum.repos.d/fedora.repo` and `/etc/yum.repos.d/fedora-updates.repo`
-  - Add `exclude=kernel*` to the main "[fedora]" and "[fedora-updates]" categories respectively
-- You should be able to now simply `$ sudo dnf update --refresh` to grab the fsync kernel and reboot. Verify with `uname -a` or `rpm -qa | grep kernel` to see what you've got.
-- Should the update above fail, for instance because Fedora has got a higher version, you can force it with `$ sudo dnf distro-sync kernel*`
-
 ## hhd
 
-HandHeld Daemon provides various functionality necessary to run your handheld seamlessly, such as TDP limits, both through the decky integration as well as using the desktop UI. Installing it is quite simple - enable the [hhd-dev copr repository](https://copr.fedorainfracloud.org/coprs/hhd-dev/hhd/).
+HandHeld Daemon provides various functionality necessary to run your handheld seamlessly, such as TDP limits, both through the decky integration as well as using the desktop UI. Installing it is quite simple - enable the [hhd copr repository](https://copr.fedorainfracloud.org/coprs/hhd-dev/hhd/).
 - `$ sudo dnf copr enable hhd-dev/hhd`
+
+## acpi\_call
+
+`acpi_call` is a Kernel module that enables calls to ACPI methods. It is needed for `HHD` to be able to set TDP limits. Enable the [acpi\_call copr repository](https://copr.fedorainfracloud.org/coprs/rhea/acpi_call/). ([Maintained by yours truly.](https://github.com/RheaAyase/acpi_call.rpm))
+- `$ sudo dnf copr enable rhea/acpi_call`
 
 ## Install all the things
 
 Obviously we need steam and gamescope, both of which are already available. And hhd we enabled above.
-- `$ sudo dnf install steam gamescope hhd hhd-ui`
+- `$ sudo dnf install acpi_call steam gamescope hhd hhd-ui`
 
 ## Executing steam in gamescope
 
 I've got a little `.desktop` file in my taskbar that I use to run it. Shove it wherever you like, tldr this is what I run:
 - `$ gamescope --mangoapp --steam --default-touch-mode 4 --hide-cursor-delay 2000 -f -W 1280 -H 720 -- steam -gamepadui -steamos3 -steampal -steamdeck -pipewire-dmabuf`
-- As you can see I'm running mine at 720p even though my desktop is at 1080p. Ain't got no need for games to run higher.
+- As you can see I'm running mine at 720p even though my desktop is at 1080p. Ain't got no need for games to run higher on such a tiny display and it saves me some battery.
 
 My entire Desktop file is below, should you wish to benefit from a full copypasta... _(Note this contains my username. So fix it on your end!)_
 ```
