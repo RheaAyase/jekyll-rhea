@@ -206,6 +206,7 @@ binds {
     Mod+Period { set-column-width "+10%"; }
 }
 ```
+
 ```
 window-rule {
     match app-id=r#"discord"#
