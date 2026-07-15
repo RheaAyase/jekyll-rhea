@@ -29,8 +29,7 @@ You're gonna boot into basic tty command line interface. If you have ethernet av
 ```
 sudo dnf install NetworkManager-wifi iwlwifi-dvm-firmware iwlwifi-mvm-firmware iwlwifi-mld-firmware
 ```
-
-If you don't have ethernet, you're gonna have to find the rpm and shuffle it over with a usb stick.
+- If you don't have ethernet, you're gonna have to find the rpm and shuffle it over with a usb stick.
 
 Now the next thing that I configure is mounting my NFS share which I can then use to easily transfer some files, such as my do-it-all script which enables all my repositories necessary, installs all rpms, enables flathub, installs my flatpak apps, and clones my `chezmoi` configuration files for everything. At this point my install is done. I'll help you with yours though :)
 
@@ -119,6 +118,7 @@ sudo systemctl enable hhd
 ```
 
 Specific to everything that doesn't use hhd or acpi_call: 
+- Install tuned:
 ```
 sudo dnf install tuned-ppd
 ```
