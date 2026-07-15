@@ -69,7 +69,7 @@ Here is a complete list of things that I personally install on my handheld (both
 - [Wezterm](https://copr.fedorainfracloud.org/coprs/wezfurlong/wezterm-nightly) solves a few issues for me which many of the GTK based terminals cause.
   - Enable its copr `$ sudo dnf copr enable wezfurlong/wezterm-nightly` - otherwise remove it from the below command.
 - Another one included below is `neovim` - it's great, you're welcome :D No seriously though, you can remove it as well as `npm fd-find ripgrep` if you do not want to use it. If you do, you will need to also `sudo npm install -g tree-sitter-cli` and if you want tips on nvim plugins, message me.
-- Some of these packages are simply dependencies for other things, or necessary applications to exist in a minimal non-DE setup, and it also includes `niri` which we've ommitted so far.
+- Some of these packages are simply dependencies for other things, or necessary applications to exist in a minimal non-DE setup, and it also includes `niri` which we've ommitted so far. 
 ```
 sudo dnf install -y vim neovim git rsync htop gdu fastfetch make zip unzip gcc npm fd-find ripgrep luarocks wezterm fzf chezmoi btrfs-assistant flatpak flatseal steam gwenview gamescope mangohud protontricks winetricks discord okular vlc niri pavucontrol flameshot dolphin qt6ct cliphist usbutils ddcutil xhost xdg-desktop-portal xdg-desktop-portal-kde 
 ```
@@ -80,22 +80,22 @@ And the optional `ble.sh` - highly recommended quality of life in `bash` (fish i
 - Enable it for root as well: `$ sudo make -C ble.sh install PREFIX=/root/.local`
 
 Specific to GPD Win4 (and possibly other handhelds):
-- We need an acpi_call kernel module to enable tdp limits: `$ sudo dnf copr enable rhea/acpi_call`
+- We need an acpi_call kernel module to enable tdp limits: `$ sudo dnf copr enable rhea/acpi_call` 
 ```
 sudo dnf install -y upower acpi_call hhd hhd-ui
 ```
 - Enable it: `$ sudo systemctl enable hhd`
 
-Specific to everything that doesn't use hhd or acpi_call:
+Specific to everything that doesn't use hhd or acpi_call: 
 ```
 sudo dnf install tuned-ppd
 ```
 - Fix crackling audio on boot/shutdown/etc:
-- Add the directory name `overrides` into text file `/etc/tuned/post_loaded_profile`
+- Add the directory name `overrides` into text file `/etc/tuned/post_loaded_profile` 
 ```
 sudo mkdir -p /etc/tuned/profiles/overrides
 ```
-- `/etc/tuned/profiles/overrides/tuned.conf`
+- `/etc/tuned/profiles/overrides/tuned.conf` 
 ```
 [audio]
 timeout=0
@@ -115,7 +115,7 @@ Install your desired **flatpaks**. For gaming, since that's our focus here, you'
 - This is by far the most tricky thing to do on this kind of install. Necessary packages should already be there, now you need to configure them - [Arch Wiki reference](https://wiki.archlinux.org/title/Uniform_look_for_Qt_and_GTK_applications)
 - (Create its directory and) add into the following file:
 - `$ mkdir -p ~/.config/xdg-desktop-portal`
-- `~/.config/xdg-desktop-portal/portals.conf`
+- `~/.config/xdg-desktop-portal/portals.conf` 
 ```
 [preferred]
 default=kde
@@ -124,7 +124,7 @@ org.freedesktop.impl.portal.FileChooser=kde
 
 **QT themes**
 - `$ mkdir -p ~/.config/environment.d`
-- `~/.config/environment.d/niri.conf`
+- `~/.config/environment.d/niri.conf` 
 ```
 QT_QPA_PLATFORM=wayland
 QT_QPA_PLATFORMTHEME=qt6ct
@@ -136,7 +136,7 @@ QT_QPA_PLATFORMTHEME_QT6=qt6ct
 - (Create its directory and) add into the following file:
 - `$ sudo mkdir -p /etc/systemd/system/getty@tty1.service.d`
 - `/etc/systemd/system/getty@tty1.service.d/override.conf`
-- Change my username, I don't think that yours is the same! ;)
+- Change my username, I don't think that yours is the same! ;) 
 ```
 [Service]
 ExecStart=
@@ -153,13 +153,13 @@ source -- ~/.local/share/blesh/ble.sh
 ```
 
 **Configure btrfs snapshots**
-- You can simply create an alias for this in your `.bashrc` for that btrfs-assistant doesn't work out of the box without a DE. This is my workaround. Execute it and use btrfs assistant to configure your snapshots for **both** root `/` and `/home`, after you reboot and have some GUI :)
+- You can simply create an alias for this in your `.bashrc` for that btrfs-assistant doesn't work out of the box without a DE. This is my workaround. Execute it and use btrfs assistant to configure your snapshots for **both** root `/` and `/home`, after you reboot and have some GUI :) 
 ```
 alias btrfs-alias='xhost +; pkexec btrfs-assistant; xhost -'
 ```
 
 **Auto-start Niri**
-- Add at the end of your `.bashrc`
+- Add at the end of your `.bashrc` 
 ```
 if [ "$(tty)" = "/dev/tty1" ]; then
     echo "niri?"
@@ -172,7 +172,7 @@ fi
 - `$ mkdir -p ~/.config/niri`
 - Grab (`wget`) the [default config](https://github.com/niri-wm/niri/blob/main/resources/default-config.kdl) and shove it into `~/.config/niri/config.kdl`
 - You should probably run `niri validate` after messing with your config file.
-- Some things you can add or configure, I'm sure you can figure it out what's what based on this example:
+- Some things you can add or configure, I'm sure you can figure it out what's what based on this example: 
 ```
 binds {
     Mod+K repeat=false { spawn "wezterm-gui"; }
