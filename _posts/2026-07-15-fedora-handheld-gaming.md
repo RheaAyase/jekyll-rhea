@@ -173,7 +173,6 @@ fi
 - Grab (`wget`) the [default config](https://github.com/niri-wm/niri/blob/main/resources/default-config.kdl) and shove it into `~/.config/niri/config.kdl`
 - You should probably run `niri validate` after messing with your config file.
 - Some things you can add or configure, I'm sure you can figure it out what's what based on this example:
-
 ```
 binds {
     Mod+K repeat=false { spawn "wezterm-gui"; }
