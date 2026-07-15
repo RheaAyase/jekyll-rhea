@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My handheld gaming experience in 2026 (Fedora Linux + Niri)"
-date:   2026-07-15 12:01:19
+date:   2026-07-15 11:01:19
 categories: [code]
 comments: true
 ---
