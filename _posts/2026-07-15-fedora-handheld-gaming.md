@@ -205,7 +205,8 @@ binds {
     Mod+Comma { set-column-width "-10%"; }
     Mod+Period { set-column-width "+10%"; }
 }
-
+```
+```
 window-rule {
     match app-id=r#"discord"#
     default-column-width { proportion 1.0; }
