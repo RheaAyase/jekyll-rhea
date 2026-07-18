@@ -6,7 +6,7 @@ categories: [code]
 comments: true
 ---
 
-I tried several gaming oriented Linux distributions and found them all to be... well, to be frank, bloated and unstable. I seek the most minimal experience, secure, up to date, with comfy desktop environment for a small screen. Most distributions are full of preinstalled stuff that you will never use, some of which often runs in the background, quietly eating away on your battery life. I also really like the ability to "tab out" of my game and have discord, browser, or anything else immediately available, without unreliable 3rd party plugin managers for steam that are broken every single time you want to play a game (yes I'm looking at you deckyloader). Simply I want my handheld to be ready to game, no matter how often I use it. Daily, or once a year, without having to deal with mandatory updates breaking everything.
+I've tried several gaming oriented Linux distributions and found them all to be... well, to be frank, bloated and unstable. I seek the most minimal experience, secure, up to date, with a comfy desktop environment for a small screen. Most distributions are full of preinstalled stuff that you will never use, some of which often runs in the background, quietly eating away at your battery life. I also really like the ability to "tab out" of my game and have discord, browser, or anything else immediately available, without unreliable 3rd party plugin managers for steam that are broken every single time you want to play a game (yes I'm looking at you deckyloader). Simply I want my handheld to be ready to game, no matter how often I use it. Daily, or once a year, without having to deal with mandatory updates breaking everything.
 
 [YouTube: My GPD Win4 with Fedora Minimal (niri+noctalia)](https://www.youtube.com/watch?v=qX962X5AUEA) is better than SteamOS!
 
@@ -52,7 +52,7 @@ sudo dnf install fedoratricks
 ```
 - Use it to enable rpmfusion:
 ```
-fedoratricks rpmfusion --install
+fedoratricks rpmfusion install
 ```
 - You can now use it to install multimedia/codecs, or even nvidia drivers if that's what you have. Simply run `$ fedoratricks --help` to figure it out :)
 
