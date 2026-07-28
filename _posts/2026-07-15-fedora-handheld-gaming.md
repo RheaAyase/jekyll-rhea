@@ -63,6 +63,8 @@ fedoratricks rpmfusion install
 
 ### terra & noctalia shell
 
+UPDATE: As of f44 `noctalia` is now included in its core repositories, if that's your situation, you can SKIP the terra repository configuration below and install it directly.
+
 Terra repository is our source of noctalia packages. Beware though, it is known to cause issues if you leave it enabled. We will restrict it only to install the relevant packages.
 
 - Enable the terra repository:
