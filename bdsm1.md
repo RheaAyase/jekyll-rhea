@@ -15,7 +15,6 @@ Join my [Discord server](https://discord.gg/m2PFpymQb9) for discussion.
 
 {% include spacer.html %}
 
-* [How it all began - a story of self discovery.]({{ site.url }}/articles/2022-11/Self-discovery-freedom-acceptance)
 * [Walkies]({{ site.url }}/articles/2022-11/Walkies) - Prose
 * [BDSM in VRChat]({{ site.url }}/articles/2022-11/VRChat) - Educational
 * [Thorpe Park]({{ site.url }}/articles/2022-12/Thorpe-Park) - Poetry
